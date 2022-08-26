@@ -1,0 +1,4 @@
+.*/
+__pycache__/
+data.*.html
+_error*.html
