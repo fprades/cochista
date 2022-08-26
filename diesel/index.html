@@ -2,14 +2,14 @@
 <html>
 
 <head>
-    <title>X1</title>
+    <title>Cochista</title>
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <script>
         // <![CDATA[
 
         var myColor = d3.scaleSequential()
             .interpolator(d3.interpolateRdYlGn)
-            .domain([2005, 2026])
+            .domain([1990, 2026])
 
         // Copyright 2021 Observable, Inc.
         // Released under the ISC license.
@@ -125,21 +125,20 @@
                 .attr("cy", i => yScale(Y[i]))
                 .attr("href", i => data[i].url)
                 .attr("img", i => data[i].img)
+                .attr("desc", i => data[i].title)
                 .attr("r", r)
-                .attr("fill", i => data[i].year == 2016 ? "navy" : myColor(data[i].year))
+                .attr("fill", i => myColor(data[i].year))
                 .on("click", (x) => { _url = "https://coches.net" + x.target.getAttribute("href"); console.log(_url); window.open(_url, "cochesnet", "noreferrer"); })
                 .on("mouseover", (x) => {
                     d3.select("#see").attr("src", x.target.getAttribute("img"));
-                    d3.select("#tooltip")
-                        .style("left", d3.mouse(this)[0] + "px")
-                        .style("top", d3.mouse(this)[1] + "px");
+                    d3.select("#desc").text(x.target.getAttribute("desc"));
                 })
                 ;
 
             return svg.node();
         }
         function loaded() {
-            d = d3.json("x1.json").then(
+            d = d3.json("data.json").then(
                 (data) => {
                     console.log(data)
                     sp = Scatterplot(data, { x: d => d.km, y: d => d.price, width: 2500, xLabel: "km →", yLabel: "precio", height: 1080, r: 10, fill: "none" });
@@ -156,10 +155,12 @@
 </head>
 
 <body onload="loaded()">
-    <h3>X1</h3>
+    <h3>Cochista</h3>
+    <p><a href="..">..</a></p>
     <div id="something">
         <div name="tooltip" style="position: absolute; top: 10px; right: 200px;">
-            <img id="see" alt="pic" src="https://a.ccdn.es/cnet/2022/08/08/52686611/598461333_g.jpg" height="400" />
+            <img id="see" alt="pic" height="400" />
+            <p id="desc"></p>
         </div>
     </div>
 </body>

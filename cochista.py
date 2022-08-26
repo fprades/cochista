@@ -39,7 +39,7 @@ def feed(name: str, pages: int = 10, pause:float=10, base="https://www.coches.ne
                 headers={
                     "User-Agent": random.choice(USER_AGENTS),
                     "Accept-Encoding": "deflate, br",
-                    "Accept-Language": f"es-CL, es-ES, es; q={round(random.uniform(0.2, 0.9),1)}"
+                    "Accept-Language": f"es-CL, es-ES, es, en-US, en; q={round(random.uniform(0.2, 0.9),1)}"
                 },
             )
             print(request.full_url, file, request.headers)
