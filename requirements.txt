@@ -3,4 +3,5 @@ pandas
 jupyter
 matplotlib
 black
+isort
 scipy
