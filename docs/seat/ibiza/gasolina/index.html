@@ -2,7 +2,7 @@
 <html>
 
 <head>
-    <title>Cochista</title>
+    <title>seat/ibiza/gasolina</title>
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <script>
         // <![CDATA[
@@ -124,6 +124,8 @@
                 .attr("cx", i => xScale(X[i]))
                 .attr("cy", i => yScale(Y[i]))
                 .attr("href", i => data[i].url)
+                .attr("euro", i => data[i].price)
+                .attr("km", i => data[i].km)
                 .attr("img", i => data[i].img)
                 .attr("desc", i => data[i].title)
                 .attr("r", r)
@@ -131,7 +133,7 @@
                 .on("click", (x) => { _url = "https://coches.net" + x.target.getAttribute("href"); console.log(_url); window.open(_url, "cochesnet", "noreferrer"); })
                 .on("mouseover", (x) => {
                     d3.select("#see").attr("src", x.target.getAttribute("img"));
-                    d3.select("#desc").text(x.target.getAttribute("desc"));
+                    d3.select("#desc").html(x.target.getAttribute("desc") + "<br/>" + x.target.getAttribute("euro") + "&euro;<br/>" + x.target.getAttribute("km") + "kms");
                 })
                 ;
 
@@ -155,8 +157,8 @@
 </head>
 
 <body onload="loaded()">
-    <h3>Cochista</h3>
-    <p><a href="..">..</a></p>
+    <h3>seat/ibiza/gasolina</h3>
+    <h6><a href="..">..</a></h6>
     <div id="something">
         <div name="tooltip" style="position: absolute; top: 10px; right: 200px;">
             <img id="see" alt="pic" height="400" />

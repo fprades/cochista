@@ -1,18 +1,19 @@
 [
   {
     "bodyTypeId":1.0,
-    "fuelType":"H\u00edbrido enchufable",
-    "fuelTypeId":5.0,
+    "financedPrice":21990.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
     "hasWarranty":true,
-    "id":"52613879",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/28\/52613879\/595508819_g.jpg",
+    "id":"52887564",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/09\/05\/52887564\/607396450_g.jpg",
     "includesTaxes":true,
-    "isCertified":true,
-    "isFinanced":false,
+    "isCertified":false,
+    "isFinanced":true,
     "isUrgent":false,
     "isProfessional":true,
     "isUrlSemantic":true,
-    "km":38949,
+    "km":48999,
     "location":{
       "provinceIds":[
         8
@@ -20,7 +21,46 @@
       "mainProvince":"Barcelona",
       "mainProvinceId":8
     },
-    "price":36490,
+    "price":25690,
+    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-barcelona-52887564-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"935491206",
+    "provinceId":8,
+    "publicationDate":"2022-09-05T09:49:04Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2018,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"H\u00edbrido enchufable",
+    "fuelTypeId":5.0,
+    "hasWarranty":true,
+    "id":"52613879",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/28\/52613879\/605707232_g.jpg",
+    "includesTaxes":true,
+    "isCertified":true,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":38954,
+    "location":{
+      "provinceIds":[
+        8
+      ],
+      "mainProvince":"Barcelona",
+      "mainProvinceId":8
+    },
+    "price":35990,
     "url":"\/bmw-i3-s-94ah-rex-5p-electrico-hibrido-2018-en-barcelona-52613879-covo.aspx",
     "offerType":{
       "id":0,
@@ -28,108 +68,108 @@
     },
     "phone":"607261364",
     "provinceId":8,
-    "publicationDate":"2022-08-17T15:06:41Z",
+    "publicationDate":"2022-09-05T09:45:44Z",
     "specificFuelTypeId":5.0,
     "taxTypeId":1,
     "title":"BMW i3 S 94ah REX 5p.",
     "warrantyId":4.0,
     "warrantyMonths":24.0,
     "year":2018,
-    "financedPrice":null,
     "isTop":null
   },
   {
     "bodyTypeId":1.0,
+    "financedPrice":21490.0,
     "fuelType":"El\u00e9ctrico",
     "fuelTypeId":3.0,
     "hasWarranty":true,
-    "id":"52742936",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/17\/52742936\/600623395_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":116800,
-    "location":{
-      "provinceIds":[
-        28
-      ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
-    },
-    "price":18450,
-    "url":"\/bmw-i3--electrico-hibrido-2014-en-madrid-52742936-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"608676625",
-    "provinceId":28,
-    "publicationDate":"2022-08-17T11:55:08Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2014,
-    "financedPrice":null,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52651552",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/03\/52651552\/597129826_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":59000,
-    "location":{
-      "provinceIds":[
-        28
-      ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
-    },
-    "price":30900,
-    "url":"\/bmw-i3-94ah-electrico-hibrido-2018-en-madrid-52651552-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"654853152",
-    "provinceId":28,
-    "publicationDate":"2022-08-17T08:42:41Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2018,
-    "financedPrice":null,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"51738136",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/04\/07\/51738136\/559042331_g.jpg",
+    "id":"52733135",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/16\/52733135\/607916378_g.jpg",
     "includesTaxes":true,
     "isCertified":false,
     "isFinanced":true,
     "isUrgent":false,
     "isProfessional":true,
     "isUrlSemantic":true,
-    "km":3500,
+    "km":66973,
+    "location":{
+      "provinceIds":[
+        28
+      ],
+      "mainProvince":"Madrid",
+      "mainProvinceId":28
+    },
+    "price":23590,
+    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-madrid-52733135-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"911438320",
+    "provinceId":28,
+    "publicationDate":"2022-09-04T10:33:45Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2018,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":27990.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52778139",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/22\/52778139\/601894369_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":30797,
+    "location":{
+      "provinceIds":[
+        28
+      ],
+      "mainProvince":"Madrid",
+      "mainProvinceId":28
+    },
+    "price":28990,
+    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2017-en-madrid-52778139-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"912777096",
+    "provinceId":28,
+    "publicationDate":"2022-09-03T13:16:45Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2017,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52599731",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/27\/52599731\/607368623_g.jpg",
+    "includesTaxes":true,
+    "isCertified":true,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":23568,
     "location":{
       "provinceIds":[
         8
@@ -137,460 +177,187 @@
       "mainProvince":"Barcelona",
       "mainProvinceId":8
     },
-    "price":39900,
-    "url":"\/km-0\/bmw\/i3\/barcelona\/120ah-electrico-hibrido-de-km0-51738136-kovn.aspx",
+    "price":32990,
+    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-barcelona-52599731-covo.aspx",
     "offerType":{
       "id":0,
       "literal":"Ocasi\u00f3n"
     },
-    "phone":"931225406",
+    "phone":"607261364",
     "provinceId":8,
-    "publicationDate":"2022-08-17T00:33:39Z",
+    "publicationDate":"2022-09-03T12:49:44Z",
     "specificFuelTypeId":3.0,
     "taxTypeId":1,
-    "title":"BMW i3 120ah 5p.",
+    "title":"BMW i3 94ah 5p.",
     "warrantyId":4.0,
     "warrantyMonths":24.0,
-    "year":2021,
-    "financedPrice":39500.0,
+    "year":2018,
     "isTop":null
   },
   {
-    "bodyTypeId":null,
-    "fuelType":null,
-    "fuelTypeId":null,
+    "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
     "hasWarranty":false,
-    "id":"52738602",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/16\/52738602\/600640878_g.jpg",
+    "id":"52879861",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/09\/03\/52879861\/605839735_g.jpg",
     "includesTaxes":true,
     "isCertified":false,
     "isFinanced":false,
     "isUrgent":false,
     "isProfessional":false,
     "isUrlSemantic":true,
-    "km":6980,
+    "km":101000,
     "location":{
       "provinceIds":[
-        7
+        50
       ],
-      "mainProvince":"Baleares",
-      "mainProvinceId":7
+      "mainProvince":"Zaragoza",
+      "mainProvinceId":50
     },
-    "price":38500,
-    "url":"\/bmw-i3-electrico-hibrido-2021-en-baleares-52738602-covo.aspx",
+    "price":25000,
+    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-zaragoza-52879861-covo.aspx",
     "offerType":{
       "id":0,
       "literal":"Ocasi\u00f3n"
     },
-    "phone":"630412443",
-    "provinceId":7,
-    "publicationDate":"2022-08-16T15:41:02Z",
+    "phone":"656397099",
+    "provinceId":50,
+    "publicationDate":"2022-09-03T12:40:10Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 120ah 5p.",
+    "warrantyId":null,
+    "warrantyMonths":null,
+    "year":2019,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":19690.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52809851",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/26\/52809851\/607898020_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":56707,
+    "location":{
+      "provinceIds":[
+        28
+      ],
+      "mainProvince":"Madrid",
+      "mainProvinceId":28
+    },
+    "price":20690,
+    "url":"\/bmw-i3--5p-electrico-hibrido-2016-en-madrid-52809851-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"911438320",
+    "provinceId":28,
+    "publicationDate":"2022-09-03T12:25:44Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3  5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2015,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":26990.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52784669",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/23\/52784669\/607920654_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":13518,
+    "location":{
+      "provinceIds":[
+        28
+      ],
+      "mainProvince":"Madrid",
+      "mainProvinceId":28
+    },
+    "price":29690,
+    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-madrid-52784669-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"911438320",
+    "provinceId":28,
+    "publicationDate":"2022-09-03T10:46:48Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 120ah 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2019,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":null,
+    "financedPrice":null,
+    "fuelType":null,
+    "fuelTypeId":null,
+    "hasWarranty":false,
+    "id":"52879238",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/09\/03\/52879238\/605830464_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":false,
+    "isUrlSemantic":true,
+    "km":74900,
+    "location":{
+      "provinceIds":[
+        28
+      ],
+      "mainProvince":"Madrid",
+      "mainProvinceId":28
+    },
+    "price":18690,
+    "url":"\/bmw-i3-otros-2017-en-madrid-52879238-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"666822939",
+    "provinceId":28,
+    "publicationDate":"2022-09-03T07:44:23Z",
     "specificFuelTypeId":null,
     "taxTypeId":1,
     "title":"BMW i3",
     "warrantyId":null,
     "warrantyMonths":null,
-    "year":2021,
-    "financedPrice":null,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52705639",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/10\/52705639\/599106388_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":19400,
-    "location":{
-      "provinceIds":[
-        46
-      ],
-      "mainProvince":"Valencia",
-      "mainProvinceId":46
-    },
-    "price":32900,
-    "url":"\/bmw-i3-s-120ah-electrico-hibrido-2019-en-valencia-52705639-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"674710858",
-    "provinceId":46,
-    "publicationDate":"2022-08-16T09:49:42Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 S 120ah 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2019,
-    "financedPrice":null,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":false,
-    "id":"52730815",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/15\/52730815\/600230268_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":false,
-    "isUrlSemantic":true,
-    "km":31000,
-    "location":{
-      "provinceIds":[
-        28
-      ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
-    },
-    "price":27500,
-    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-madrid-52730815-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"649401831",
-    "provinceId":28,
-    "publicationDate":"2022-08-15T21:08:18Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah 5p.",
-    "warrantyId":null,
-    "warrantyMonths":null,
-    "year":2018,
-    "financedPrice":null,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52726260",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/14\/52726260\/600039453_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":56000,
-    "location":{
-      "provinceIds":[
-        28
-      ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
-    },
-    "price":22900,
-    "url":"\/bmw-i3-94ah-electrico-hibrido-2017-en-madrid-52726260-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"609066403",
-    "provinceId":28,
-    "publicationDate":"2022-08-14T09:47:59Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
     "year":2017,
-    "financedPrice":null,
     "isTop":null
   },
   {
     "bodyTypeId":1.0,
+    "financedPrice":23625.0,
     "fuelType":"El\u00e9ctrico",
     "fuelTypeId":3.0,
     "hasWarranty":true,
-    "id":"52278877",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/06\/16\/52278877\/603119808_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":17534,
-    "location":{
-      "provinceIds":[
-        3
-      ],
-      "mainProvince":"Alicante",
-      "mainProvinceId":3
-    },
-    "price":30850,
-    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-alicante-52278877-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"900535336",
-    "provinceId":3,
-    "publicationDate":"2022-08-13T12:40:32Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 120ah 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2019,
-    "financedPrice":28382.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52278846",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/06\/16\/52278846\/603119480_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":17534,
-    "location":{
-      "provinceIds":[
-        28
-      ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
-    },
-    "price":30850,
-    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-madrid-52278846-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"900535336",
-    "provinceId":28,
-    "publicationDate":"2022-08-13T12:38:57Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 120ah 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2019,
-    "financedPrice":28382.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52278843",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/06\/16\/52278843\/603119716_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":17534,
-    "location":{
-      "provinceIds":[
-        8
-      ],
-      "mainProvince":"Barcelona",
-      "mainProvinceId":8
-    },
-    "price":30850,
-    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-barcelona-52278843-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"900535336",
-    "provinceId":8,
-    "publicationDate":"2022-08-13T12:38:49Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 120ah 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2019,
-    "financedPrice":28382.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52649104",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/02\/52649104\/596995544_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":10000,
-    "location":{
-      "provinceIds":[
-        35
-      ],
-      "mainProvince":"Las Palmas",
-      "mainProvinceId":35
-    },
-    "price":38950,
-    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2022-en-las_palmas-52649104-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"690262813",
-    "provinceId":35,
-    "publicationDate":"2022-08-13T11:42:42Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":2,
-    "title":"BMW i3 120ah 5p.",
-    "warrantyId":4.0,
-    "warrantyMonths":24.0,
-    "year":2022,
-    "financedPrice":null,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52649103",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/02\/52649103\/596995546_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":12500,
-    "location":{
-      "provinceIds":[
-        35
-      ],
-      "mainProvince":"Las Palmas",
-      "mainProvinceId":35
-    },
-    "price":30950,
-    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-las_palmas-52649103-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"690262813",
-    "provinceId":35,
-    "publicationDate":"2022-08-13T11:41:42Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":2,
-    "title":"BMW i3 120ah 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2019,
-    "financedPrice":29650.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52719490",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/12\/52719490\/600775105_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":13200,
-    "location":{
-      "provinceIds":[
-        28
-      ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
-    },
-    "price":32990,
-    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-madrid-52719490-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"623062320",
-    "provinceId":28,
-    "publicationDate":"2022-08-12T17:03:11Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 120ah 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2019,
-    "financedPrice":31990.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":null,
-    "fuelType":"Di\u00e9sel",
-    "fuelTypeId":1.0,
-    "hasWarranty":false,
-    "id":"52720815",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/12\/52720815\/599749426_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":false,
-    "isUrlSemantic":true,
-    "km":180000,
-    "location":{
-      "provinceIds":[
-        18
-      ],
-      "mainProvince":"Granada",
-      "mainProvinceId":18
-    },
-    "price":450,
-    "url":"\/bmw-i3-diesel-2013-en-granada-52720815-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"613032181",
-    "provinceId":18,
-    "publicationDate":"2022-08-12T16:20:12Z",
-    "specificFuelTypeId":1.0,
-    "taxTypeId":1,
-    "title":"BMW i3",
-    "warrantyId":null,
-    "warrantyMonths":null,
-    "year":2013,
-    "financedPrice":null,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52807037",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/12\/52807037\/603012297_g.jpg",
+    "id":"52876351",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/09\/02\/52876351\/605665189_g.jpg",
     "includesTaxes":true,
     "isCertified":false,
     "isFinanced":true,
@@ -606,76 +373,37 @@
       "mainProvinceId":46
     },
     "price":26250,
-    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-valencia-52807037-covo.aspx",
+    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-valencia-52876351-covo.aspx",
     "offerType":{
       "id":0,
       "literal":"Ocasi\u00f3n"
     },
     "phone":"965500533",
     "provinceId":46,
-    "publicationDate":"2022-08-11T17:36:04Z",
+    "publicationDate":"2022-09-02T18:10:31Z",
     "specificFuelTypeId":3.0,
     "taxTypeId":1,
     "title":"BMW i3 94ah 5p.",
     "warrantyId":2.0,
     "warrantyMonths":12.0,
     "year":2018,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
     "financedPrice":23625.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
     "fuelType":"El\u00e9ctrico",
     "fuelTypeId":3.0,
     "hasWarranty":true,
-    "id":"52707959",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/11\/52707959\/600550969_g.jpg",
+    "id":"52876285",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/09\/02\/52876285\/605664255_g.jpg",
     "includesTaxes":true,
     "isCertified":false,
     "isFinanced":true,
     "isUrgent":false,
     "isProfessional":true,
     "isUrlSemantic":true,
-    "km":17464,
-    "location":{
-      "provinceIds":[
-        28
-      ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
-    },
-    "price":28790,
-    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-madrid-52707959-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"911438320",
-    "provinceId":28,
-    "publicationDate":"2022-08-11T09:48:03Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2018,
-    "financedPrice":26190.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52707278",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/11\/52707278\/599220075_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":90000,
+    "km":33680,
     "location":{
       "provinceIds":[
         30
@@ -683,455 +411,26 @@
       "mainProvince":"Murcia",
       "mainProvinceId":30
     },
-    "price":22600,
-    "url":"\/bmw-i3--electrico-hibrido-2015-en-murcia-52707278-covo.aspx",
+    "price":26250,
+    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-murcia-52876285-covo.aspx",
     "offerType":{
       "id":0,
       "literal":"Ocasi\u00f3n"
     },
-    "phone":"624655065",
+    "phone":"965500533",
     "provinceId":30,
-    "publicationDate":"2022-08-11T08:06:23Z",
+    "publicationDate":"2022-09-02T18:09:00Z",
     "specificFuelTypeId":3.0,
     "taxTypeId":1,
-    "title":"BMW i3",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2015,
-    "financedPrice":22300.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52705757",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/10\/52705757\/599111025_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":20020,
-    "location":{
-      "provinceIds":[
-        46
-      ],
-      "mainProvince":"Valencia",
-      "mainProvinceId":46
-    },
-    "price":33800,
-    "url":"\/bmw-i3-s-120ah-electrico-hibrido-2020-en-valencia-52705757-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"674710858",
-    "provinceId":46,
-    "publicationDate":"2022-08-10T20:05:40Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 S 120ah",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2020,
-    "financedPrice":null,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"H\u00edbrido enchufable",
-    "fuelTypeId":5.0,
-    "hasWarranty":true,
-    "id":"52705736",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/10\/52705736\/599109664_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":17800,
-    "location":{
-      "provinceIds":[
-        46
-      ],
-      "mainProvince":"Valencia",
-      "mainProvinceId":46
-    },
-    "price":33900,
-    "url":"\/bmw-i3-94ah-rex--2018-en-valencia-52705736-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"674710858",
-    "provinceId":46,
-    "publicationDate":"2022-08-10T20:02:51Z",
-    "specificFuelTypeId":5.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah REX",
+    "title":"BMW i3 94ah 5p.",
     "warrantyId":2.0,
     "warrantyMonths":12.0,
     "year":2018,
-    "financedPrice":null,
     "isTop":null
   },
   {
     "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52251522",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/06\/13\/52251522\/580034896_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":54900,
-    "location":{
-      "provinceIds":[
-        24
-      ],
-      "mainProvince":"Le\u00f3n",
-      "mainProvinceId":24
-    },
-    "price":19900,
-    "url":"\/bmw-i3--5p-electrico-hibrido-2015-en-leon-52251522-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"683143558",
-    "provinceId":24,
-    "publicationDate":"2022-08-10T12:04:54Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3  5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2015,
-    "financedPrice":null,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"H\u00edbrido enchufable",
-    "fuelTypeId":5.0,
-    "hasWarranty":true,
-    "id":"52251513",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/06\/13\/52251513\/580117415_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":22500,
-    "location":{
-      "provinceIds":[
-        24
-      ],
-      "mainProvince":"Le\u00f3n",
-      "mainProvinceId":24
-    },
-    "price":28800,
-    "url":"\/bmw-i3-94ah-rex-5p-electrico-hibrido-2017-en-leon-52251513-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"683143558",
-    "provinceId":24,
-    "publicationDate":"2022-08-10T12:04:29Z",
-    "specificFuelTypeId":5.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah REX 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2017,
-    "financedPrice":null,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52687737",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/08\/52687737\/598512956_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":27500,
-    "location":{
-      "provinceIds":[
-        28
-      ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
-    },
-    "price":27500,
-    "url":"\/bmw-i3-94ah-electrico-hibrido-2017-en-madrid-52687737-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"692369021",
-    "provinceId":28,
-    "publicationDate":"2022-08-08T16:13:56Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2017,
-    "financedPrice":null,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52494386",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/13\/52494386\/589881461_g.jpg",
-    "includesTaxes":true,
-    "isCertified":true,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":19950,
-    "location":{
-      "provinceIds":[
-        47
-      ],
-      "mainProvince":"Valladolid",
-      "mainProvinceId":47
-    },
-    "price":33500,
-    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2018-en-valladolid-52494386-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"983950700",
-    "provinceId":47,
-    "publicationDate":"2022-08-08T11:02:45Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 120ah 5p.",
-    "warrantyId":4.0,
-    "warrantyMonths":24.0,
-    "year":2019,
-    "financedPrice":null,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52008004",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/05\/12\/52008004\/578583188_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":27400,
-    "location":{
-      "provinceIds":[
-        28
-      ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
-    },
-    "price":34200,
-    "url":"\/bmw-i3-120ah-electrico-hibrido-2019-en-madrid-52008004-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"983099252",
-    "provinceId":28,
-    "publicationDate":"2022-08-07T19:29:17Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 120ah",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2019,
-    "financedPrice":33300.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52278895",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/06\/16\/52278895\/603120066_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":17534,
-    "location":{
-      "provinceIds":[
-        7
-      ],
-      "mainProvince":"Baleares",
-      "mainProvinceId":7
-    },
-    "price":30850,
-    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-baleares-52278895-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"900535336",
-    "provinceId":7,
-    "publicationDate":"2022-08-07T16:59:40Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 120ah 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2019,
-    "financedPrice":28382.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":null,
-    "fuelType":"Gasolina",
-    "fuelTypeId":2.0,
-    "hasWarranty":false,
-    "id":"52682775",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/07\/52682775\/601536744_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":false,
-    "isUrlSemantic":true,
-    "km":205480,
-    "location":{
-      "provinceIds":[
-        43
-      ],
-      "mainProvince":"Tarragona",
-      "mainProvinceId":43
-    },
-    "price":1950,
-    "url":"\/bmw-i3-gasolina-2000-en-tarragona-52682775-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"602698414",
-    "provinceId":43,
-    "publicationDate":"2022-08-07T16:17:01Z",
-    "specificFuelTypeId":2.0,
-    "taxTypeId":1,
-    "title":"BMW i3",
-    "warrantyId":null,
-    "warrantyMonths":null,
-    "year":2000,
-    "financedPrice":null,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"H\u00edbrido enchufable",
-    "fuelTypeId":5.0,
-    "hasWarranty":true,
-    "id":"52454679",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/07\/52454679\/588094462_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":59112,
-    "location":{
-      "provinceIds":[
-        28
-      ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
-    },
-    "price":29990,
-    "url":"\/bmw-i3-s-94ah-rex--2018-en-madrid-52454679-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"696413363",
-    "provinceId":28,
-    "publicationDate":"2022-08-05T17:56:09Z",
-    "specificFuelTypeId":5.0,
-    "taxTypeId":1,
-    "title":"BMW i3 S 94ah REX 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2018,
-    "financedPrice":28990.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52323608",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/06\/22\/52323608\/582939064_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":27000,
-    "location":{
-      "provinceIds":[
-        33
-      ],
-      "mainProvince":"Asturias",
-      "mainProvinceId":33
-    },
-    "price":30990,
-    "url":"\/bmw-i3-s-120ah-electrico-hibrido-2019-en-asturias-52323608-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"985744626",
-    "provinceId":33,
-    "publicationDate":"2022-08-05T11:26:41Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 S 120ah 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2019,
-    "financedPrice":30990.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
+    "financedPrice":28995.0,
     "fuelType":"H\u00edbrido enchufable",
     "fuelTypeId":5.0,
     "hasWarranty":true,
@@ -1159,69 +458,30 @@
     },
     "phone":"652169395",
     "provinceId":28,
-    "publicationDate":"2022-08-04T18:07:40Z",
+    "publicationDate":"2022-09-02T16:52:45Z",
     "specificFuelTypeId":5.0,
     "taxTypeId":1,
     "title":"BMW i3 94ah REX 5p.",
     "warrantyId":9.0,
     "warrantyMonths":84.0,
     "year":2019,
-    "financedPrice":28995.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":null,
-    "fuelType":"Di\u00e9sel",
-    "fuelTypeId":1.0,
-    "hasWarranty":false,
-    "id":"52245149",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/06\/12\/52245149\/601641234_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":false,
-    "isUrlSemantic":true,
-    "km":270000,
-    "location":{
-      "provinceIds":[
-        4
-      ],
-      "mainProvince":"Almer\u00eda",
-      "mainProvinceId":4
-    },
-    "price":2800,
-    "url":"\/bmw-i3-diesel-2002-en-almeria-52245149-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"642372329",
-    "provinceId":4,
-    "publicationDate":"2022-06-11T22:46:24Z",
-    "specificFuelTypeId":1.0,
-    "taxTypeId":1,
-    "title":"BMW i3",
-    "warrantyId":null,
-    "warrantyMonths":null,
-    "year":2002,
-    "financedPrice":null,
     "isTop":null
   },
   {
     "bodyTypeId":1.0,
-    "fuelType":"H\u00edbrido enchufable",
-    "fuelTypeId":5.0,
+    "financedPrice":32990.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
     "hasWarranty":true,
-    "id":"52231651",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/06\/10\/52231651\/579344093_g.jpg",
+    "id":"52872381",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/09\/02\/52872381\/605545637_g.jpg",
     "includesTaxes":true,
     "isCertified":false,
-    "isFinanced":false,
+    "isFinanced":true,
     "isUrgent":false,
     "isProfessional":true,
     "isUrlSemantic":true,
-    "km":39000,
+    "km":19000,
     "location":{
       "provinceIds":[
         28
@@ -1229,311 +489,272 @@
       "mainProvince":"Madrid",
       "mainProvinceId":28
     },
-    "price":25995,
-    "url":"\/bmw-i3-94ah-rex--2017-en-madrid-52231651-covo.aspx",
+    "price":32990,
+    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2020-en-madrid-52872381-covo.aspx",
     "offerType":{
       "id":0,
       "literal":"Ocasi\u00f3n"
     },
-    "phone":"639436177",
+    "phone":"696929386",
     "provinceId":28,
-    "publicationDate":"2022-06-10T10:49:32Z",
-    "specificFuelTypeId":5.0,
+    "publicationDate":"2022-09-02T11:00:47Z",
+    "specificFuelTypeId":3.0,
     "taxTypeId":1,
-    "title":"BMW i3 94ah REX",
+    "title":"BMW i3 120ah 5p.",
     "warrantyId":2.0,
     "warrantyMonths":12.0,
-    "year":2017,
-    "financedPrice":null,
+    "year":2020,
     "isTop":null
   },
   {
     "bodyTypeId":null,
-    "fuelType":null,
-    "fuelTypeId":null,
-    "hasWarranty":false,
-    "id":"51525941",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/03\/14\/51525941\/551426563_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":false,
-    "isUrlSemantic":true,
-    "km":60000,
-    "location":{
-      "provinceIds":[
-        4
-      ],
-      "mainProvince":"Almer\u00eda",
-      "mainProvinceId":4
-    },
-    "price":20900,
-    "url":"\/bmw-i3--5p-electrico-hibrido-2018-en-almeria-51525941-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"609836369",
-    "provinceId":4,
-    "publicationDate":"2022-03-14T09:18:46Z",
-    "specificFuelTypeId":null,
-    "taxTypeId":1,
-    "title":"BMW i3",
-    "warrantyId":null,
-    "warrantyMonths":null,
-    "year":2018,
     "financedPrice":null,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":null,
-    "fuelType":"Di\u00e9sel",
-    "fuelTypeId":1.0,
-    "hasWarranty":false,
-    "id":"52724238",
-    "img":null,
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":false,
-    "isUrlSemantic":true,
-    "km":17000,
-    "location":{
-      "provinceIds":[
-        46
-      ],
-      "mainProvince":"Valencia",
-      "mainProvinceId":46
-    },
-    "price":4000,
-    "url":"\/bmw-i3-diesel-2006-en-valencia-52724238-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"660635099",
-    "provinceId":46,
-    "publicationDate":"2022-08-13T11:28:13Z",
-    "specificFuelTypeId":1.0,
-    "taxTypeId":1,
-    "title":"BMW i3",
-    "warrantyId":null,
-    "warrantyMonths":null,
-    "year":2006,
-    "financedPrice":null,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":null,
     "fuelType":"Gasolina",
     "fuelTypeId":2.0,
     "hasWarranty":false,
-    "id":"52579031",
-    "img":null,
+    "id":"52873070",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/09\/02\/52873070\/605561868_g.jpg",
     "includesTaxes":true,
     "isCertified":false,
     "isFinanced":false,
     "isUrgent":false,
     "isProfessional":false,
     "isUrlSemantic":true,
-    "km":200000,
+    "km":93000,
     "location":{
       "provinceIds":[
-        7
+        23
       ],
-      "mainProvince":"Baleares",
-      "mainProvinceId":7
+      "mainProvince":"Ja\u00e9n",
+      "mainProvinceId":23
     },
-    "price":1700,
-    "url":"\/bmw-i3-gasolina-1995-en-baleares-52579031-covo.aspx",
+    "price":17000,
+    "url":"\/bmw-i3-gasolina-1989-en-jaen-52873070-covo.aspx",
     "offerType":{
       "id":0,
       "literal":"Ocasi\u00f3n"
     },
-    "phone":"670368326",
-    "provinceId":7,
-    "publicationDate":"2022-07-23T18:57:45Z",
+    "phone":"676059073",
+    "provinceId":23,
+    "publicationDate":"2022-09-02T08:41:13Z",
     "specificFuelTypeId":2.0,
     "taxTypeId":1,
     "title":"BMW i3",
     "warrantyId":null,
     "warrantyMonths":null,
-    "year":1995,
-    "financedPrice":null,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":null,
-    "fuelType":null,
-    "fuelTypeId":null,
-    "hasWarranty":false,
-    "id":"52473351",
-    "img":null,
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":false,
-    "isUrlSemantic":true,
-    "km":150000,
-    "location":{
-      "provinceIds":[
-        25
-      ],
-      "mainProvince":"Lleida",
-      "mainProvinceId":25
-    },
-    "price":2000,
-    "url":"\/bmw-i3-electrico-hibrido-2004-en-lleida-52473351-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"641796324",
-    "provinceId":25,
-    "publicationDate":"2022-07-10T14:28:17Z",
-    "specificFuelTypeId":null,
-    "taxTypeId":1,
-    "title":"BMW i3",
-    "warrantyId":null,
-    "warrantyMonths":null,
-    "year":2004,
-    "financedPrice":null,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":null,
-    "fuelType":"Gasolina",
-    "fuelTypeId":2.0,
-    "hasWarranty":false,
-    "id":"52178679",
-    "img":null,
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":false,
-    "isUrlSemantic":true,
-    "km":249000,
-    "location":{
-      "provinceIds":[
-        36
-      ],
-      "mainProvince":"Pontevedra",
-      "mainProvinceId":36
-    },
-    "price":1800,
-    "url":"\/bmw-i3-gasolina-1998-en-pontevedra-52178679-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"693736679",
-    "provinceId":36,
-    "publicationDate":"2022-06-03T08:13:03Z",
-    "specificFuelTypeId":2.0,
-    "taxTypeId":1,
-    "title":"BMW i3",
-    "warrantyId":null,
-    "warrantyMonths":null,
-    "year":1998,
-    "financedPrice":null,
+    "year":1989,
     "isTop":null
   },
   {
     "bodyTypeId":1.0,
+    "financedPrice":null,
     "fuelType":"El\u00e9ctrico",
     "fuelTypeId":3.0,
     "hasWarranty":true,
-    "id":"52489693",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/12\/52489693\/590293697_g.jpg",
+    "id":"52865468",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/09\/01\/52865468\/605267138_g.jpg",
+    "includesTaxes":true,
+    "isCertified":true,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":25434,
+    "location":{
+      "provinceIds":[
+        28
+      ],
+      "mainProvince":"Madrid",
+      "mainProvinceId":28
+    },
+    "price":30900,
+    "url":"\/bmw-i3-s-94ah-5p-electrico-hibrido-2018-en-madrid-52865468-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"919041152",
+    "provinceId":28,
+    "publicationDate":"2022-09-01T16:58:10Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 S 94ah 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2019,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":23591.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52860674",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/09\/01\/52860674\/605111718_g.jpg",
     "includesTaxes":true,
     "isCertified":false,
     "isFinanced":true,
     "isUrgent":false,
     "isProfessional":true,
     "isUrlSemantic":true,
-    "km":33680,
+    "km":30376,
     "location":{
       "provinceIds":[
-        30
+        48
       ],
-      "mainProvince":"Murcia",
-      "mainProvinceId":30
+      "mainProvince":"Vizcaya",
+      "mainProvinceId":48
     },
-    "price":26250,
-    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-murcia-52489693-covo.aspx",
+    "price":25950,
+    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-vizcaya-52860674-covo.aspx",
     "offerType":{
       "id":0,
       "literal":"Ocasi\u00f3n"
     },
-    "phone":"965500533",
-    "provinceId":30,
-    "publicationDate":"2022-08-04T17:17:43Z",
+    "phone":"843990694",
+    "provinceId":48,
+    "publicationDate":"2022-09-01T10:25:59Z",
     "specificFuelTypeId":3.0,
     "taxTypeId":1,
     "title":"BMW i3 94ah 5p.",
     "warrantyId":2.0,
     "warrantyMonths":12.0,
     "year":2018,
-    "financedPrice":23625.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":null,
-    "fuelType":"Gasolina",
-    "fuelTypeId":2.0,
-    "hasWarranty":false,
-    "id":"52665958",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/04\/52665958\/597636489_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":false,
-    "isUrlSemantic":true,
-    "km":250000,
-    "location":{
-      "provinceIds":[
-        41
-      ],
-      "mainProvince":"Sevilla",
-      "mainProvinceId":41
-    },
-    "price":2500,
-    "url":"\/bmw-i3-gasolina-2001-en-sevilla-52665958-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"667660111",
-    "provinceId":41,
-    "publicationDate":"2022-08-04T14:08:59Z",
-    "specificFuelTypeId":2.0,
-    "taxTypeId":1,
-    "title":"BMW i3",
-    "warrantyId":null,
-    "warrantyMonths":null,
-    "year":2001,
-    "financedPrice":null,
     "isTop":null
   },
   {
     "bodyTypeId":1.0,
+    "financedPrice":23591.0,
     "fuelType":"El\u00e9ctrico",
     "fuelTypeId":3.0,
     "hasWarranty":true,
-    "id":"52489661",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/12\/52489661\/590293947_g.jpg",
+    "id":"52860543",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/09\/01\/52860543\/605106824_g.jpg",
     "includesTaxes":true,
     "isCertified":false,
     "isFinanced":true,
     "isUrgent":false,
     "isProfessional":true,
     "isUrlSemantic":true,
-    "km":33680,
+    "km":30376,
+    "location":{
+      "provinceIds":[
+        8
+      ],
+      "mainProvince":"Barcelona",
+      "mainProvinceId":8
+    },
+    "price":25950,
+    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-barcelona-52860543-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"931225630",
+    "provinceId":8,
+    "publicationDate":"2022-09-01T10:15:33Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2018,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":23591.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52856564",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/31\/52856564\/604945342_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":30376,
+    "location":{
+      "provinceIds":[
+        13
+      ],
+      "mainProvince":"Ciudad Real",
+      "mainProvinceId":13
+    },
+    "price":25950,
+    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-ciudad_real-52856564-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"926262748",
+    "provinceId":13,
+    "publicationDate":"2022-08-31T20:11:20Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2018,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":23591.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52856265",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/31\/52856265\/604943083_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":30376,
+    "location":{
+      "provinceIds":[
+        28
+      ],
+      "mainProvince":"Madrid",
+      "mainProvinceId":28
+    },
+    "price":25950,
+    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-madrid-52856265-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"910782525",
+    "provinceId":28,
+    "publicationDate":"2022-08-31T19:54:02Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2018,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":23591.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52856186",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/31\/52856186\/604941586_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":30376,
     "location":{
       "provinceIds":[
         2
@@ -1541,428 +762,38 @@
       "mainProvince":"Albacete",
       "mainProvinceId":2
     },
-    "price":26250,
-    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-albacete-52489661-covo.aspx",
+    "price":25950,
+    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-albacete-52856186-covo.aspx",
     "offerType":{
       "id":0,
       "literal":"Ocasi\u00f3n"
     },
-    "phone":"965500533",
+    "phone":"967880691",
     "provinceId":2,
-    "publicationDate":"2022-08-03T18:09:44Z",
+    "publicationDate":"2022-08-31T19:51:11Z",
     "specificFuelTypeId":3.0,
     "taxTypeId":1,
     "title":"BMW i3 94ah 5p.",
     "warrantyId":2.0,
     "warrantyMonths":12.0,
     "year":2018,
-    "financedPrice":23625.0,
     "isTop":null
   },
   {
     "bodyTypeId":1.0,
+    "financedPrice":23591.0,
     "fuelType":"El\u00e9ctrico",
     "fuelTypeId":3.0,
     "hasWarranty":true,
-    "id":"52429163",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/05\/52429163\/586615676_g.jpg",
+    "id":"52856163",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/31\/52856163\/604945295_g.jpg",
     "includesTaxes":true,
     "isCertified":false,
     "isFinanced":true,
     "isUrgent":false,
     "isProfessional":true,
     "isUrlSemantic":true,
-    "km":39900,
-    "location":{
-      "provinceIds":[
-        8
-      ],
-      "mainProvince":"Barcelona",
-      "mainProvinceId":8
-    },
-    "price":29900,
-    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-barcelona-52429163-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"609810716",
-    "provinceId":8,
-    "publicationDate":"2022-08-03T09:22:18Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 120ah 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2019,
-    "financedPrice":28900.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"51776019",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/04\/12\/51776019\/560418461_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":13000,
-    "location":{
-      "provinceIds":[
-        28
-      ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
-    },
-    "price":30300,
-    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-madrid-51776019-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"983099252",
-    "provinceId":28,
-    "publicationDate":"2022-07-31T19:53:43Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 120ah 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2019,
-    "financedPrice":29400.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52357996",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/06\/27\/52357996\/589733784_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":55000,
-    "location":{
-      "provinceIds":[
-        28
-      ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
-    },
-    "price":21900,
-    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2016-en-madrid-52357996-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"660502346",
-    "provinceId":28,
-    "publicationDate":"2022-07-30T23:56:42Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2016,
-    "financedPrice":19900.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":false,
-    "id":"52612734",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/28\/52612734\/596006545_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":false,
-    "isUrlSemantic":true,
-    "km":47500,
-    "location":{
-      "provinceIds":[
-        28
-      ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
-    },
-    "price":24000,
-    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2017-en-madrid-52612734-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"615134685",
-    "provinceId":28,
-    "publicationDate":"2022-07-28T16:09:43Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah 5p.",
-    "warrantyId":null,
-    "warrantyMonths":null,
-    "year":2017,
-    "financedPrice":null,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52605624",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/27\/52605624\/602404142_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":12000,
-    "location":{
-      "provinceIds":[
-        28
-      ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
-    },
-    "price":35995,
-    "url":"\/bmw-i3-s-94ah-electrico-hibrido-2018-en-madrid-52605624-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"639436177",
-    "provinceId":28,
-    "publicationDate":"2022-07-27T19:01:06Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 S 94ah",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2018,
-    "financedPrice":null,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":false,
-    "id":"52548862",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/20\/52548862\/592471007_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":false,
-    "isUrlSemantic":true,
-    "km":44986,
-    "location":{
-      "provinceIds":[
-        28
-      ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
-    },
-    "price":21500,
-    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2017-en-madrid-52548862-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"670796676",
-    "provinceId":28,
-    "publicationDate":"2022-07-20T13:07:38Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah 5p.",
-    "warrantyId":null,
-    "warrantyMonths":null,
-    "year":2017,
-    "financedPrice":null,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52548588",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/20\/52548588\/597348670_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":82954,
-    "location":{
-      "provinceIds":[
-        50
-      ],
-      "mainProvince":"Zaragoza",
-      "mainProvinceId":50
-    },
-    "price":22450,
-    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2017-en-zaragoza-52548588-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"876500593",
-    "provinceId":50,
-    "publicationDate":"2022-07-20T11:38:53Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2017,
-    "financedPrice":20981.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52532136",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/18\/52532136\/597423277_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":82954,
-    "location":{
-      "provinceIds":[
-        12
-      ],
-      "mainProvince":"Castell\u00f3n",
-      "mainProvinceId":12
-    },
-    "price":22450,
-    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2017-en-castellon-52532136-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"964186910",
-    "provinceId":12,
-    "publicationDate":"2022-07-18T14:01:16Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2017,
-    "financedPrice":20981.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52531948",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/18\/52531948\/597230395_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":82954,
-    "location":{
-      "provinceIds":[
-        28
-      ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
-    },
-    "price":22450,
-    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2017-en-madrid-52531948-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"918227604",
-    "provinceId":28,
-    "publicationDate":"2022-07-18T13:52:27Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2017,
-    "financedPrice":20981.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52522643",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/16\/52522643\/597297130_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":82954,
-    "location":{
-      "provinceIds":[
-        31
-      ],
-      "mainProvince":"Navarra",
-      "mainProvinceId":31
-    },
-    "price":22450,
-    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2017-en-navarra-52522643-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"848480842",
-    "provinceId":31,
-    "publicationDate":"2022-07-16T17:56:35Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2017,
-    "financedPrice":20981.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52521660",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/16\/52521660\/597281576_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":82954,
+    "km":30376,
     "location":{
       "provinceIds":[
         46
@@ -1970,38 +801,155 @@
       "mainProvince":"Valencia",
       "mainProvinceId":46
     },
-    "price":22450,
-    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2017-en-valencia-52521660-covo.aspx",
+    "price":25950,
+    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-valencia-52856163-covo.aspx",
     "offerType":{
       "id":0,
       "literal":"Ocasi\u00f3n"
     },
-    "phone":"963052325",
+    "phone":"963244787",
     "provinceId":46,
-    "publicationDate":"2022-07-16T13:54:27Z",
+    "publicationDate":"2022-08-31T19:50:17Z",
     "specificFuelTypeId":3.0,
     "taxTypeId":1,
     "title":"BMW i3 94ah 5p.",
     "warrantyId":2.0,
     "warrantyMonths":12.0,
-    "year":2017,
-    "financedPrice":20981.0,
+    "year":2018,
     "isTop":null
   },
   {
     "bodyTypeId":1.0,
+    "financedPrice":23591.0,
     "fuelType":"El\u00e9ctrico",
     "fuelTypeId":3.0,
     "hasWarranty":true,
-    "id":"52518433",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/15\/52518433\/597407546_g.jpg",
+    "id":"52855981",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/31\/52855981\/604990004_g.jpg",
     "includesTaxes":true,
     "isCertified":false,
     "isFinanced":true,
     "isUrgent":false,
     "isProfessional":true,
     "isUrlSemantic":true,
-    "km":82954,
+    "km":30376,
+    "location":{
+      "provinceIds":[
+        41
+      ],
+      "mainProvince":"Sevilla",
+      "mainProvinceId":41
+    },
+    "price":25950,
+    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-sevilla-52855981-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"954139958",
+    "provinceId":41,
+    "publicationDate":"2022-08-31T19:40:23Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2018,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":false,
+    "id":"52855921",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/31\/52855921\/604913711_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":false,
+    "isUrlSemantic":true,
+    "km":78000,
+    "location":{
+      "provinceIds":[
+        46
+      ],
+      "mainProvince":"Valencia",
+      "mainProvinceId":46
+    },
+    "price":19950,
+    "url":"\/bmw-i3--5p-electrico-hibrido-2016-en-valencia-52855921-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"615104806",
+    "provinceId":46,
+    "publicationDate":"2022-08-31T19:37:40Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3  5p.",
+    "warrantyId":null,
+    "warrantyMonths":null,
+    "year":2016,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"H\u00edbrido enchufable",
+    "fuelTypeId":5.0,
+    "hasWarranty":false,
+    "id":"52846355",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/30\/52846355\/606788261_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":false,
+    "isUrlSemantic":true,
+    "km":100000,
+    "location":{
+      "provinceIds":[
+        14
+      ],
+      "mainProvince":"C\u00f3rdoba",
+      "mainProvinceId":14
+    },
+    "price":22000,
+    "url":"\/bmw-i3-94ah-rex-5p-electrico-hibrido-2017-en-cordoba-52846355-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"686713348",
+    "provinceId":14,
+    "publicationDate":"2022-08-31T13:10:49Z",
+    "specificFuelTypeId":5.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah REX 5p.",
+    "warrantyId":null,
+    "warrantyMonths":null,
+    "year":2017,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":false,
+    "id":"51831224",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/04\/20\/51831224\/562303264_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":false,
+    "isUrlSemantic":true,
+    "km":78000,
     "location":{
       "provinceIds":[
         8
@@ -2009,26 +957,221 @@
       "mainProvince":"Barcelona",
       "mainProvinceId":8
     },
-    "price":22450,
-    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-barcelona-52518433-covo.aspx",
+    "price":20000,
+    "url":"\/bmw-i3--5p-electrico-hibrido-2016-en-barcelona-51831224-covo.aspx",
     "offerType":{
       "id":0,
       "literal":"Ocasi\u00f3n"
     },
-    "phone":"938252272",
+    "phone":"638172682",
     "provinceId":8,
-    "publicationDate":"2022-07-15T20:10:40Z",
+    "publicationDate":"2022-08-31T10:21:18Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3  5p.",
+    "warrantyId":null,
+    "warrantyMonths":null,
+    "year":2016,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":22990.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52844447",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/30\/52844447\/605154939_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":49890,
+    "location":{
+      "provinceIds":[
+        46
+      ],
+      "mainProvince":"Valencia",
+      "mainProvinceId":46
+    },
+    "price":23990,
+    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2017-en-valencia-52844447-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"627865839",
+    "provinceId":46,
+    "publicationDate":"2022-08-30T17:53:54Z",
     "specificFuelTypeId":3.0,
     "taxTypeId":1,
     "title":"BMW i3 94ah 5p.",
     "warrantyId":2.0,
     "warrantyMonths":12.0,
-    "year":2017,
-    "financedPrice":20981.0,
+    "year":2016,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":null,
+    "financedPrice":null,
+    "fuelType":"Di\u00e9sel",
+    "fuelTypeId":1.0,
+    "hasWarranty":false,
+    "id":"52843453",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/30\/52843453\/604482770_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":false,
+    "isUrlSemantic":true,
+    "km":234263,
+    "location":{
+      "provinceIds":[
+        13
+      ],
+      "mainProvince":"Ciudad Real",
+      "mainProvinceId":13
+    },
+    "price":7999,
+    "url":"\/bmw-i3-diesel-2009-en-ciudad_real-52843453-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"654860380",
+    "provinceId":13,
+    "publicationDate":"2022-08-30T13:28:21Z",
+    "specificFuelTypeId":1.0,
+    "taxTypeId":1,
+    "title":"BMW i3",
+    "warrantyId":null,
+    "warrantyMonths":null,
+    "year":2009,
     "isTop":null
   },
   {
     "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"51413468",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/02\/28\/51413468\/548590997_g.jpg",
+    "includesTaxes":true,
+    "isCertified":true,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":22769,
+    "location":{
+      "provinceIds":[
+        33
+      ],
+      "mainProvince":"Asturias",
+      "mainProvinceId":33
+    },
+    "price":35000,
+    "url":"\/bmw-i3-s-94ah-5p-electrico-hibrido-2018-en-asturias-51413468-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"678533814",
+    "provinceId":33,
+    "publicationDate":"2022-08-30T13:25:47Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 S 94ah 5p.",
+    "warrantyId":4.0,
+    "warrantyMonths":24.0,
+    "year":2019,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":false,
+    "id":"52838169",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/30\/52838169\/604332302_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":false,
+    "isUrlSemantic":true,
+    "km":120000,
+    "location":{
+      "provinceIds":[
+        39
+      ],
+      "mainProvince":"Cantabria",
+      "mainProvinceId":39
+    },
+    "price":20000,
+    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2017-en-cantabria-52838169-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"663281660",
+    "provinceId":39,
+    "publicationDate":"2022-08-30T11:39:02Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah 5p.",
+    "warrantyId":null,
+    "warrantyMonths":null,
+    "year":2017,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":false,
+    "id":"52837553",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/30\/52837553\/604314297_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":false,
+    "isUrlSemantic":true,
+    "km":50000,
+    "location":{
+      "provinceIds":[
+        8
+      ],
+      "mainProvince":"Barcelona",
+      "mainProvinceId":8
+    },
+    "price":31900,
+    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-barcelona-52837553-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"629858484",
+    "provinceId":8,
+    "publicationDate":"2022-08-30T10:41:30Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 120ah 5p.",
+    "warrantyId":null,
+    "warrantyMonths":null,
+    "year":2019,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":20981.0,
     "fuelType":"El\u00e9ctrico",
     "fuelTypeId":3.0,
     "hasWarranty":true,
@@ -2063,11 +1206,11 @@
     "warrantyId":2.0,
     "warrantyMonths":12.0,
     "year":2017,
-    "financedPrice":20981.0,
     "isTop":null
   },
   {
     "bodyTypeId":1.0,
+    "financedPrice":null,
     "fuelType":"El\u00e9ctrico",
     "fuelTypeId":3.0,
     "hasWarranty":true,
@@ -2102,11 +1245,11 @@
     "warrantyId":2.0,
     "warrantyMonths":12.0,
     "year":2015,
-    "financedPrice":null,
     "isTop":null
   },
   {
     "bodyTypeId":1.0,
+    "financedPrice":null,
     "fuelType":"El\u00e9ctrico",
     "fuelTypeId":3.0,
     "hasWarranty":true,
@@ -2141,11 +1284,11 @@
     "warrantyId":2.0,
     "warrantyMonths":12.0,
     "year":2015,
-    "financedPrice":null,
     "isTop":null
   },
   {
     "bodyTypeId":1.0,
+    "financedPrice":null,
     "fuelType":"H\u00edbrido enchufable",
     "fuelTypeId":5.0,
     "hasWarranty":true,
@@ -2180,11 +1323,11 @@
     "warrantyId":2.0,
     "warrantyMonths":12.0,
     "year":2016,
-    "financedPrice":null,
     "isTop":null
   },
   {
     "bodyTypeId":1.0,
+    "financedPrice":null,
     "fuelType":"El\u00e9ctrico",
     "fuelTypeId":3.0,
     "hasWarranty":false,
@@ -2219,245 +1362,11 @@
     "warrantyId":null,
     "warrantyMonths":null,
     "year":2019,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
     "financedPrice":null,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":false,
-    "id":"51831224",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/04\/20\/51831224\/562303264_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":false,
-    "isUrlSemantic":true,
-    "km":78000,
-    "location":{
-      "provinceIds":[
-        8
-      ],
-      "mainProvince":"Barcelona",
-      "mainProvinceId":8
-    },
-    "price":19000,
-    "url":"\/bmw-i3--5p-electrico-hibrido-2016-en-barcelona-51831224-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"638172682",
-    "provinceId":8,
-    "publicationDate":"2022-06-29T13:05:51Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3  5p.",
-    "warrantyId":null,
-    "warrantyMonths":null,
-    "year":2016,
-    "financedPrice":null,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"51674433",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/03\/31\/51674433\/557298960_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":59000,
-    "location":{
-      "provinceIds":[
-        28
-      ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
-    },
-    "price":20500,
-    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2016-en-madrid-51674433-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"918786215",
-    "provinceId":28,
-    "publicationDate":"2022-06-28T18:43:59Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2016,
-    "financedPrice":18900.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"H\u00edbrido enchufable",
-    "fuelTypeId":5.0,
-    "hasWarranty":true,
-    "id":"52320467",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/06\/22\/52320467\/593183477_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":16934,
-    "location":{
-      "provinceIds":[
-        15
-      ],
-      "mainProvince":"A Coru\u00f1a",
-      "mainProvinceId":15
-    },
-    "price":31290,
-    "url":"\/bmw-i3-94ah-rex-5p-electrico-hibrido-2017-en-a_coruna-52320467-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"919035657",
-    "provinceId":15,
-    "publicationDate":"2022-06-22T10:53:55Z",
-    "specificFuelTypeId":5.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah REX 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2017,
-    "financedPrice":27490.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"H\u00edbrido enchufable",
-    "fuelTypeId":5.0,
-    "hasWarranty":true,
-    "id":"52316960",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/06\/21\/52316960\/593182554_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":16934,
-    "location":{
-      "provinceIds":[
-        41
-      ],
-      "mainProvince":"Sevilla",
-      "mainProvinceId":41
-    },
-    "price":31290,
-    "url":"\/bmw-i3-94ah-rex-5p-electrico-hibrido-2017-en-sevilla-52316960-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"919035657",
-    "provinceId":41,
-    "publicationDate":"2022-06-21T21:02:39Z",
-    "specificFuelTypeId":5.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah REX 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2017,
-    "financedPrice":27490.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"H\u00edbrido enchufable",
-    "fuelTypeId":5.0,
-    "hasWarranty":true,
-    "id":"52315802",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/06\/21\/52315802\/593487505_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":16934,
-    "location":{
-      "provinceIds":[
-        46
-      ],
-      "mainProvince":"Valencia",
-      "mainProvinceId":46
-    },
-    "price":31290,
-    "url":"\/bmw-i3-94ah-rex-5p-electrico-hibrido-2017-en-valencia-52315802-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"919035657",
-    "provinceId":46,
-    "publicationDate":"2022-06-21T19:32:12Z",
-    "specificFuelTypeId":5.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah REX 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2017,
-    "financedPrice":27490.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"H\u00edbrido enchufable",
-    "fuelTypeId":5.0,
-    "hasWarranty":true,
-    "id":"52314129",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/06\/21\/52314129\/593339632_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":16934,
-    "location":{
-      "provinceIds":[
-        8
-      ],
-      "mainProvince":"Barcelona",
-      "mainProvinceId":8
-    },
-    "price":31290,
-    "url":"\/bmw-i3-94ah-rex-5p-electrico-hibrido-2017-en-barcelona-52314129-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"919035657",
-    "provinceId":8,
-    "publicationDate":"2022-06-21T17:50:52Z",
-    "specificFuelTypeId":5.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah REX 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2017,
-    "financedPrice":27490.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
     "fuelType":"El\u00e9ctrico",
     "fuelTypeId":3.0,
     "hasWarranty":true,
@@ -2492,11 +1401,11 @@
     "warrantyId":2.0,
     "warrantyMonths":12.0,
     "year":2018,
-    "financedPrice":null,
     "isTop":null
   },
   {
     "bodyTypeId":1.0,
+    "financedPrice":27500.0,
     "fuelType":"H\u00edbrido enchufable",
     "fuelTypeId":5.0,
     "hasWarranty":true,
@@ -2531,11 +1440,11 @@
     "warrantyId":2.0,
     "warrantyMonths":12.0,
     "year":2018,
-    "financedPrice":27500.0,
     "isTop":null
   },
   {
     "bodyTypeId":1.0,
+    "financedPrice":null,
     "fuelType":"El\u00e9ctrico",
     "fuelTypeId":3.0,
     "hasWarranty":false,
@@ -2570,11 +1479,11 @@
     "warrantyId":null,
     "warrantyMonths":null,
     "year":2019,
-    "financedPrice":null,
     "isTop":null
   },
   {
     "bodyTypeId":null,
+    "financedPrice":null,
     "fuelType":null,
     "fuelTypeId":null,
     "hasWarranty":false,
@@ -2609,531 +1518,62 @@
     "warrantyId":null,
     "warrantyMonths":null,
     "year":2019,
-    "financedPrice":null,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52651552",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/03\/52651552\/597129826_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":59000,
-    "location":{
-      "provinceIds":[
-        28
-      ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
-    },
-    "price":30900,
-    "url":"\/bmw-i3-94ah-electrico-hibrido-2018-en-madrid-52651552-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"654853152",
-    "provinceId":28,
-    "publicationDate":"2022-08-17T08:42:41Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2018,
-    "financedPrice":null,
-    "isTop":true
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"H\u00edbrido enchufable",
-    "fuelTypeId":5.0,
-    "hasWarranty":true,
-    "id":"52310936",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/06\/21\/52310936\/582468474_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":36000,
-    "location":{
-      "provinceIds":[
-        8
-      ],
-      "mainProvince":"Barcelona",
-      "mainProvinceId":8
-    },
-    "price":29500,
-    "url":"\/bmw-i3-94ah-rex--2018-en-barcelona-52310936-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"674344492",
-    "provinceId":8,
-    "publicationDate":"2022-06-21T11:40:20Z",
-    "specificFuelTypeId":5.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah REX",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2018,
-    "financedPrice":27500.0,
-    "isTop":true
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52489661",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/12\/52489661\/590293947_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":33680,
-    "location":{
-      "provinceIds":[
-        2
-      ],
-      "mainProvince":"Albacete",
-      "mainProvinceId":2
-    },
-    "price":26250,
-    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-albacete-52489661-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"965500533",
-    "provinceId":2,
-    "publicationDate":"2022-08-03T18:09:44Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2018,
-    "financedPrice":23625.0,
-    "isTop":true
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52603662",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/27\/52603662\/602373195_g.jpg",
-    "includesTaxes":true,
-    "isCertified":true,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":46514,
-    "location":{
-      "provinceIds":[
-        28
-      ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
-    },
-    "price":30990,
-    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-madrid-52603662-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"913341016",
-    "provinceId":28,
-    "publicationDate":"2022-08-25T17:29:43Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 120ah 5p.",
-    "warrantyId":4.0,
-    "warrantyMonths":24.0,
-    "year":2019,
-    "financedPrice":null,
-    "isTop":true
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"H\u00edbrido enchufable",
-    "fuelTypeId":5.0,
-    "hasWarranty":true,
-    "id":"52613879",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/28\/52613879\/595508819_g.jpg",
-    "includesTaxes":true,
-    "isCertified":true,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":38949,
-    "location":{
-      "provinceIds":[
-        8
-      ],
-      "mainProvince":"Barcelona",
-      "mainProvinceId":8
-    },
-    "price":36490,
-    "url":"\/bmw-i3-s-94ah-rex-5p-electrico-hibrido-2018-en-barcelona-52613879-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"607261364",
-    "provinceId":8,
-    "publicationDate":"2022-08-17T15:06:41Z",
-    "specificFuelTypeId":5.0,
-    "taxTypeId":1,
-    "title":"BMW i3 S 94ah REX 5p.",
-    "warrantyId":4.0,
-    "warrantyMonths":24.0,
-    "year":2018,
-    "financedPrice":null,
-    "isTop":true
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52599731",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/27\/52599731\/594965258_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":23568,
-    "location":{
-      "provinceIds":[
-        8
-      ],
-      "mainProvince":"Barcelona",
-      "mainProvinceId":8
-    },
-    "price":32990,
-    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-barcelona-52599731-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"607261364",
-    "provinceId":8,
-    "publicationDate":"2022-08-26T11:03:45Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah 5p.",
-    "warrantyId":4.0,
-    "warrantyMonths":24.0,
-    "year":2018,
-    "financedPrice":null,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52809851",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/26\/52809851\/603168511_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":56707,
-    "location":{
-      "provinceIds":[
-        28
-      ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
-    },
-    "price":21190,
-    "url":"\/bmw-i3--5p-electrico-hibrido-2016-en-madrid-52809851-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"911438320",
-    "provinceId":28,
-    "publicationDate":"2022-08-26T09:40:16Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3  5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2015,
-    "financedPrice":20190.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52809773",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/26\/52809773\/603165810_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":55200,
-    "location":{
-      "provinceIds":[
-        28
-      ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
-    },
-    "price":21990,
-    "url":"\/bmw-i3-94ah-electrico-hibrido-2018-en-madrid-52809773-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"617067634",
-    "provinceId":28,
-    "publicationDate":"2022-08-26T09:30:46Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2018,
-    "financedPrice":19990.0,
     "isTop":null
   },
   {
     "bodyTypeId":null,
-    "fuelType":null,
-    "fuelTypeId":null,
+    "financedPrice":null,
+    "fuelType":"Di\u00e9sel",
+    "fuelTypeId":1.0,
     "hasWarranty":false,
-    "id":"52811107",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/26\/52811107\/603243185_g.jpg",
+    "id":"52245149",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/06\/12\/52245149\/601641234_g.jpg",
     "includesTaxes":true,
     "isCertified":false,
     "isFinanced":false,
     "isUrgent":false,
     "isProfessional":false,
     "isUrlSemantic":true,
-    "km":44000,
+    "km":270000,
     "location":{
       "provinceIds":[
-        30
+        4
       ],
-      "mainProvince":"Murcia",
-      "mainProvinceId":30
+      "mainProvince":"Almer\u00eda",
+      "mainProvinceId":4
     },
-    "price":18500,
-    "url":"\/bmw-i3-electrico-hibrido-2016-en-murcia-52811107-covo.aspx",
+    "price":2800,
+    "url":"\/bmw-i3-diesel-2002-en-almeria-52245149-covo.aspx",
     "offerType":{
       "id":0,
       "literal":"Ocasi\u00f3n"
     },
-    "phone":"652659742",
-    "provinceId":30,
-    "publicationDate":"2022-08-26T08:24:34Z",
-    "specificFuelTypeId":null,
+    "phone":"642372329",
+    "provinceId":4,
+    "publicationDate":"2022-06-11T22:46:24Z",
+    "specificFuelTypeId":1.0,
     "taxTypeId":1,
     "title":"BMW i3",
     "warrantyId":null,
     "warrantyMonths":null,
-    "year":2016,
+    "year":2002,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":null,
     "financedPrice":null,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"H\u00edbrido enchufable",
-    "fuelTypeId":5.0,
-    "hasWarranty":true,
-    "id":"52808589",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/25\/52808589\/603058811_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":112209,
-    "location":{
-      "provinceIds":[
-        39
-      ],
-      "mainProvince":"Cantabria",
-      "mainProvinceId":39
-    },
-    "price":19900,
-    "url":"\/bmw-i3-rex--2016-en-cantabria-52808589-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"626966444",
-    "provinceId":39,
-    "publicationDate":"2022-08-25T20:45:02Z",
-    "specificFuelTypeId":5.0,
-    "taxTypeId":1,
-    "title":"BMW i3 REX",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2016,
-    "financedPrice":19900.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52603662",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/27\/52603662\/602373195_g.jpg",
-    "includesTaxes":true,
-    "isCertified":true,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":46514,
-    "location":{
-      "provinceIds":[
-        28
-      ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
-    },
-    "price":30990,
-    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-madrid-52603662-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"913341016",
-    "provinceId":28,
-    "publicationDate":"2022-08-25T17:29:43Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 120ah 5p.",
-    "warrantyId":4.0,
-    "warrantyMonths":24.0,
-    "year":2019,
-    "financedPrice":null,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52278920",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/06\/16\/52278920\/603119369_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":17534,
-    "location":{
-      "provinceIds":[
-        29
-      ],
-      "mainProvince":"M\u00e1laga",
-      "mainProvinceId":29
-    },
-    "price":30850,
-    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-malaga-52278920-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"900535336",
-    "provinceId":29,
-    "publicationDate":"2022-08-25T12:46:03Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 120ah 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2019,
-    "financedPrice":28382.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52280033",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/06\/16\/52280033\/602673894_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":65000,
-    "location":{
-      "provinceIds":[
-        28,
-        7
-      ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
-    },
-    "price":24900,
-    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-madrid-52280033-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"692621708",
-    "provinceId":28,
-    "publicationDate":"2022-08-25T09:19:43Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2018,
-    "financedPrice":22900.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52798199",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/24\/52798199\/602655150_g.jpg",
+    "fuelType":"Di\u00e9sel",
+    "fuelTypeId":1.0,
+    "hasWarranty":false,
+    "id":"52724238",
+    "img":null,
     "includesTaxes":true,
     "isCertified":false,
     "isFinanced":false,
     "isUrgent":false,
-    "isProfessional":true,
+    "isProfessional":false,
     "isUrlSemantic":true,
-    "km":38000,
+    "km":17000,
     "location":{
       "provinceIds":[
         46
@@ -3141,38 +1581,155 @@
       "mainProvince":"Valencia",
       "mainProvinceId":46
     },
-    "price":27900,
-    "url":"\/bmw-i3-94ah-electrico-hibrido-2016-en-valencia-52798199-covo.aspx",
+    "price":4000,
+    "url":"\/bmw-i3-diesel-2006-en-valencia-52724238-covo.aspx",
     "offerType":{
       "id":0,
       "literal":"Ocasi\u00f3n"
     },
-    "phone":"672123007",
+    "phone":"660635099",
     "provinceId":46,
-    "publicationDate":"2022-08-24T17:58:05Z",
-    "specificFuelTypeId":3.0,
+    "publicationDate":"2022-08-13T11:28:13Z",
+    "specificFuelTypeId":1.0,
     "taxTypeId":1,
-    "title":"BMW i3 94ah",
-    "warrantyId":4.0,
-    "warrantyMonths":24.0,
-    "year":2016,
+    "title":"BMW i3",
+    "warrantyId":null,
+    "warrantyMonths":null,
+    "year":2006,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":null,
     "financedPrice":null,
+    "fuelType":"Gasolina",
+    "fuelTypeId":2.0,
+    "hasWarranty":false,
+    "id":"52579031",
+    "img":null,
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":false,
+    "isUrlSemantic":true,
+    "km":200000,
+    "location":{
+      "provinceIds":[
+        7
+      ],
+      "mainProvince":"Baleares",
+      "mainProvinceId":7
+    },
+    "price":1700,
+    "url":"\/bmw-i3-gasolina-1995-en-baleares-52579031-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"670368326",
+    "provinceId":7,
+    "publicationDate":"2022-07-23T18:57:45Z",
+    "specificFuelTypeId":2.0,
+    "taxTypeId":1,
+    "title":"BMW i3",
+    "warrantyId":null,
+    "warrantyMonths":null,
+    "year":1995,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":null,
+    "financedPrice":null,
+    "fuelType":null,
+    "fuelTypeId":null,
+    "hasWarranty":false,
+    "id":"52473351",
+    "img":null,
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":false,
+    "isUrlSemantic":true,
+    "km":150000,
+    "location":{
+      "provinceIds":[
+        25
+      ],
+      "mainProvince":"Lleida",
+      "mainProvinceId":25
+    },
+    "price":2000,
+    "url":"\/bmw-i3-electrico-hibrido-2004-en-lleida-52473351-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"641796324",
+    "provinceId":25,
+    "publicationDate":"2022-07-10T14:28:17Z",
+    "specificFuelTypeId":null,
+    "taxTypeId":1,
+    "title":"BMW i3",
+    "warrantyId":null,
+    "warrantyMonths":null,
+    "year":2004,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":null,
+    "financedPrice":null,
+    "fuelType":"Gasolina",
+    "fuelTypeId":2.0,
+    "hasWarranty":false,
+    "id":"52178679",
+    "img":null,
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":false,
+    "isUrlSemantic":true,
+    "km":249000,
+    "location":{
+      "provinceIds":[
+        36
+      ],
+      "mainProvince":"Pontevedra",
+      "mainProvinceId":36
+    },
+    "price":1800,
+    "url":"\/bmw-i3-gasolina-1998-en-pontevedra-52178679-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"693736679",
+    "provinceId":36,
+    "publicationDate":"2022-06-03T08:13:03Z",
+    "specificFuelTypeId":2.0,
+    "taxTypeId":1,
+    "title":"BMW i3",
+    "warrantyId":null,
+    "warrantyMonths":null,
+    "year":1998,
     "isTop":null
   },
   {
     "bodyTypeId":1.0,
+    "financedPrice":28900.0,
     "fuelType":"El\u00e9ctrico",
     "fuelTypeId":3.0,
     "hasWarranty":true,
-    "id":"52707947",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/11\/52707947\/600553803_g.jpg",
+    "id":"51776019",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/04\/12\/51776019\/560418461_g.jpg",
     "includesTaxes":true,
     "isCertified":false,
     "isFinanced":true,
     "isUrgent":false,
     "isProfessional":true,
     "isUrlSemantic":true,
-    "km":83798,
+    "km":13000,
     "location":{
       "provinceIds":[
         28
@@ -3180,234 +1737,116 @@
       "mainProvince":"Madrid",
       "mainProvinceId":28
     },
-    "price":24890,
-    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-madrid-52707947-covo.aspx",
+    "price":29800,
+    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-madrid-51776019-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"983099252",
+    "provinceId":28,
+    "publicationDate":"2022-08-29T19:53:43Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 120ah 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2019,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":30990.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52323608",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/06\/22\/52323608\/582939064_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":27000,
+    "location":{
+      "provinceIds":[
+        33
+      ],
+      "mainProvince":"Asturias",
+      "mainProvinceId":33
+    },
+    "price":30990,
+    "url":"\/bmw-i3-s-120ah-electrico-hibrido-2019-en-asturias-52323608-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"985744626",
+    "provinceId":33,
+    "publicationDate":"2022-08-29T18:03:10Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 S 120ah 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2019,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":25290.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52707959",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/11\/52707959\/607976401_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":17464,
+    "location":{
+      "provinceIds":[
+        28
+      ],
+      "mainProvince":"Madrid",
+      "mainProvinceId":28
+    },
+    "price":27790,
+    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-madrid-52707959-covo.aspx",
     "offerType":{
       "id":0,
       "literal":"Ocasi\u00f3n"
     },
     "phone":"911438320",
     "provinceId":28,
-    "publicationDate":"2022-08-24T15:12:43Z",
+    "publicationDate":"2022-08-29T14:36:43Z",
     "specificFuelTypeId":3.0,
     "taxTypeId":1,
     "title":"BMW i3 94ah 5p.",
     "warrantyId":2.0,
     "warrantyMonths":12.0,
     "year":2018,
-    "financedPrice":22690.0,
     "isTop":null
   },
   {
     "bodyTypeId":1.0,
+    "financedPrice":null,
     "fuelType":"El\u00e9ctrico",
     "fuelTypeId":3.0,
     "hasWarranty":true,
-    "id":"52045670",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/05\/18\/52045670\/574594304_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":80945,
-    "location":{
-      "provinceIds":[
-        28,
-        45
-      ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
-    },
-    "price":22450,
-    "url":"\/bmw-i3-94ah-electrico-hibrido-2018-en-madrid-52045670-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"608206636",
-    "provinceId":28,
-    "publicationDate":"2022-08-24T14:33:43Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2018,
-    "financedPrice":20990.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52589539",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/26\/52589539\/594587237_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":39999,
-    "location":{
-      "provinceIds":[
-        8
-      ],
-      "mainProvince":"Barcelona",
-      "mainProvinceId":8
-    },
-    "price":29900,
-    "url":"\/bmw-i3-120ah-electrico-hibrido-2019-en-barcelona-52589539-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"609810716",
-    "provinceId":8,
-    "publicationDate":"2022-08-24T08:46:54Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 120ah",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2019,
-    "financedPrice":28900.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52559410",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/21\/52559410\/592840102_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":64300,
-    "location":{
-      "provinceIds":[
-        28
-      ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
-    },
-    "price":25900,
-    "url":"\/bmw-i3-94ah-electrico-hibrido-2018-en-madrid-52559410-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"910781631",
-    "provinceId":28,
-    "publicationDate":"2022-08-23T22:07:43Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2018,
-    "financedPrice":23900.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52786925",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/23\/52786925\/602232617_g.jpg",
+    "id":"52827527",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/29\/52827527\/603935645_g.jpg",
     "includesTaxes":true,
     "isCertified":true,
     "isFinanced":false,
     "isUrgent":false,
     "isProfessional":true,
     "isUrlSemantic":true,
-    "km":25434,
-    "location":{
-      "provinceIds":[
-        28
-      ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
-    },
-    "price":30900,
-    "url":"\/bmw-i3-s-94ah-5p-electrico-hibrido-2018-en-madrid-52786925-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"919041152",
-    "provinceId":28,
-    "publicationDate":"2022-08-23T13:22:36Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 S 94ah 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2019,
-    "financedPrice":null,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52634013",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/01\/52634013\/600538837_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":66652,
-    "location":{
-      "provinceIds":[
-        28
-      ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
-    },
-    "price":25190,
-    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-madrid-52634013-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"911438320",
-    "provinceId":28,
-    "publicationDate":"2022-08-23T10:17:43Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2018,
-    "financedPrice":22890.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52784669",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/23\/52784669\/602750713_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":13512,
+    "km":46514,
     "location":{
       "provinceIds":[
         28
@@ -3416,193 +1855,76 @@
       "mainProvinceId":28
     },
     "price":30990,
-    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-madrid-52784669-covo.aspx",
+    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-madrid-52827527-covo.aspx",
     "offerType":{
       "id":0,
       "literal":"Ocasi\u00f3n"
     },
-    "phone":"911438320",
+    "phone":"913341016",
     "provinceId":28,
-    "publicationDate":"2022-08-23T10:06:52Z",
+    "publicationDate":"2022-08-29T12:21:42Z",
     "specificFuelTypeId":3.0,
     "taxTypeId":1,
     "title":"BMW i3 120ah 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2019,
-    "financedPrice":29490.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"H\u00edbrido enchufable",
-    "fuelTypeId":5.0,
-    "hasWarranty":true,
-    "id":"52757232",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/19\/52757232\/601130874_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":48000,
-    "location":{
-      "provinceIds":[
-        28
-      ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
-    },
-    "price":29900,
-    "url":"\/bmw-i3-94ah-rex--2017-en-madrid-52757232-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"677473781",
-    "provinceId":28,
-    "publicationDate":"2022-08-22T18:17:46Z",
-    "specificFuelTypeId":5.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah REX 5p.",
-    "warrantyId":5.0,
-    "warrantyMonths":36.0,
-    "year":2017,
-    "financedPrice":28900.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52733135",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/16\/52733135\/602406695_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":66963,
-    "location":{
-      "provinceIds":[
-        28
-      ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
-    },
-    "price":24690,
-    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-madrid-52733135-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"911438320",
-    "provinceId":28,
-    "publicationDate":"2022-08-22T18:14:43Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2018,
-    "financedPrice":22490.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52778139",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/22\/52778139\/601894369_g.jpg",
-    "includesTaxes":true,
-    "isCertified":false,
-    "isFinanced":true,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":30797,
-    "location":{
-      "provinceIds":[
-        28
-      ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
-    },
-    "price":28990,
-    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2017-en-madrid-52778139-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"912777096",
-    "provinceId":28,
-    "publicationDate":"2022-08-22T13:30:56Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2017,
-    "financedPrice":27990.0,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"51413468",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/02\/28\/51413468\/548590997_g.jpg",
-    "includesTaxes":true,
-    "isCertified":true,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":22769,
-    "location":{
-      "provinceIds":[
-        33
-      ],
-      "mainProvince":"Asturias",
-      "mainProvinceId":33
-    },
-    "price":35000,
-    "url":"\/bmw-i3-s-94ah-5p-electrico-hibrido-2018-en-asturias-51413468-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"678533814",
-    "provinceId":33,
-    "publicationDate":"2022-08-21T18:21:23Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 S 94ah 5p.",
     "warrantyId":4.0,
     "warrantyMonths":24.0,
     "year":2019,
-    "financedPrice":null,
     "isTop":null
   },
   {
     "bodyTypeId":1.0,
+    "financedPrice":null,
     "fuelType":"El\u00e9ctrico",
     "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52717734",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/12\/52717734\/599645703_g.jpg",
+    "hasWarranty":false,
+    "id":"52824912",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/28\/52824912\/603794447_g.jpg",
     "includesTaxes":true,
-    "isCertified":true,
+    "isCertified":false,
     "isFinanced":false,
     "isUrgent":false,
-    "isProfessional":true,
+    "isProfessional":false,
     "isUrlSemantic":true,
-    "km":14624,
+    "km":20970,
+    "location":{
+      "provinceIds":[
+        21
+      ],
+      "mainProvince":"Huelva",
+      "mainProvinceId":21
+    },
+    "price":28800,
+    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-huelva-52824912-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"628083123",
+    "provinceId":21,
+    "publicationDate":"2022-08-28T23:16:18Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah 5p.",
+    "warrantyId":null,
+    "warrantyMonths":null,
+    "year":2018,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":false,
+    "id":"52822698",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/28\/52822698\/603711565_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":false,
+    "isUrlSemantic":true,
+    "km":47843,
     "location":{
       "provinceIds":[
         8
@@ -3610,65 +1932,65 @@
       "mainProvince":"Barcelona",
       "mainProvinceId":8
     },
-    "price":33990,
-    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-barcelona-52717734-covo.aspx",
+    "price":28500,
+    "url":"\/bmw-i3-s-94ah-5p-electrico-hibrido-2018-en-barcelona-52822698-covo.aspx",
     "offerType":{
       "id":0,
       "literal":"Ocasi\u00f3n"
     },
-    "phone":"607261364",
+    "phone":"676625240",
     "provinceId":8,
-    "publicationDate":"2022-08-21T17:10:43Z",
+    "publicationDate":"2022-08-28T13:03:45Z",
     "specificFuelTypeId":3.0,
     "taxTypeId":1,
-    "title":"BMW i3 120ah 5p.",
-    "warrantyId":4.0,
-    "warrantyMonths":24.0,
-    "year":2019,
-    "financedPrice":null,
+    "title":"BMW i3 S 94ah 5p.",
+    "warrantyId":null,
+    "warrantyMonths":null,
+    "year":2018,
     "isTop":null
   },
   {
-    "bodyTypeId":1.0,
-    "fuelType":"H\u00edbrido enchufable",
-    "fuelTypeId":5.0,
-    "hasWarranty":true,
-    "id":"52769635",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/20\/52769635\/601546210_g.jpg",
+    "bodyTypeId":null,
+    "financedPrice":null,
+    "fuelType":"Gasolina",
+    "fuelTypeId":2.0,
+    "hasWarranty":false,
+    "id":"52821702",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/28\/52821702\/606053904_g.jpg",
     "includesTaxes":true,
     "isCertified":false,
-    "isFinanced":true,
+    "isFinanced":false,
     "isUrgent":false,
-    "isProfessional":true,
+    "isProfessional":false,
     "isUrlSemantic":true,
-    "km":16934,
+    "km":178,
     "location":{
       "provinceIds":[
-        28
+        9
       ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
+      "mainProvince":"Burgos",
+      "mainProvinceId":9
     },
-    "price":31290,
-    "url":"\/bmw-i3-94ah-rex-5p-electrico-hibrido-2017-en-madrid-52769635-covo.aspx",
+    "price":1800,
+    "url":"\/bmw-i3-gasolina-1994-en-burgos-52821702-covo.aspx",
     "offerType":{
       "id":0,
       "literal":"Ocasi\u00f3n"
     },
-    "phone":"919600221",
-    "provinceId":28,
-    "publicationDate":"2022-08-20T17:10:11Z",
-    "specificFuelTypeId":5.0,
+    "phone":"643279301",
+    "provinceId":9,
+    "publicationDate":"2022-08-28T00:44:33Z",
+    "specificFuelTypeId":2.0,
     "taxTypeId":1,
-    "title":"BMW i3 94ah REX 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2017,
-    "financedPrice":27490.0,
+    "title":"BMW i3",
+    "warrantyId":null,
+    "warrantyMonths":null,
+    "year":1994,
     "isTop":null
   },
   {
     "bodyTypeId":1.0,
+    "financedPrice":23900.0,
     "fuelType":"El\u00e9ctrico",
     "fuelTypeId":3.0,
     "hasWarranty":true,
@@ -3703,11 +2025,11 @@
     "warrantyId":2.0,
     "warrantyMonths":12.0,
     "year":2018,
-    "financedPrice":23900.0,
     "isTop":null
   },
   {
     "bodyTypeId":1.0,
+    "financedPrice":18450.0,
     "fuelType":"El\u00e9ctrico",
     "fuelTypeId":3.0,
     "hasWarranty":true,
@@ -3742,128 +2064,11 @@
     "warrantyId":2.0,
     "warrantyMonths":12.0,
     "year":2017,
-    "financedPrice":18450.0,
     "isTop":null
   },
   {
     "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52694962",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/09\/52694962\/598743545_g.jpg",
-    "includesTaxes":true,
-    "isCertified":true,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":9800,
-    "location":{
-      "provinceIds":[
-        35
-      ],
-      "mainProvince":"Las Palmas",
-      "mainProvinceId":35
-    },
-    "price":33900,
-    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2020-en-las_palmas-52694962-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"690262813",
-    "provinceId":35,
-    "publicationDate":"2022-08-19T23:28:44Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":2,
-    "title":"BMW i3 120ah 5p.",
-    "warrantyId":4.0,
-    "warrantyMonths":24.0,
-    "year":2020,
-    "financedPrice":null,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52760382",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/19\/52760382\/601215996_g.jpg",
-    "includesTaxes":true,
-    "isCertified":true,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":28627,
-    "location":{
-      "provinceIds":[
-        8
-      ],
-      "mainProvince":"Barcelona",
-      "mainProvinceId":8
-    },
-    "price":26490,
-    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-barcelona-52760382-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"607261364",
-    "provinceId":8,
-    "publicationDate":"2022-08-19T13:21:33Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 94ah 5p.",
-    "warrantyId":4.0,
-    "warrantyMonths":24.0,
-    "year":2018,
-    "financedPrice":null,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
-    "fuelType":"El\u00e9ctrico",
-    "fuelTypeId":3.0,
-    "hasWarranty":true,
-    "id":"52757310",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/19\/52757310\/601134058_g.jpg",
-    "includesTaxes":true,
-    "isCertified":true,
-    "isFinanced":false,
-    "isUrgent":false,
-    "isProfessional":true,
-    "isUrlSemantic":true,
-    "km":25609,
-    "location":{
-      "provinceIds":[
-        28
-      ],
-      "mainProvince":"Madrid",
-      "mainProvinceId":28
-    },
-    "price":31500,
-    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-madrid-52757310-covo.aspx",
-    "offerType":{
-      "id":0,
-      "literal":"Ocasi\u00f3n"
-    },
-    "phone":"919041152",
-    "provinceId":28,
-    "publicationDate":"2022-08-19T09:46:44Z",
-    "specificFuelTypeId":3.0,
-    "taxTypeId":1,
-    "title":"BMW i3 120ah 5p.",
-    "warrantyId":2.0,
-    "warrantyMonths":12.0,
-    "year":2019,
-    "financedPrice":null,
-    "isTop":null
-  },
-  {
-    "bodyTypeId":1.0,
+    "financedPrice":21490.0,
     "fuelType":"El\u00e9ctrico",
     "fuelTypeId":3.0,
     "hasWarranty":true,
@@ -3898,85 +2103,2154 @@
     "warrantyId":2.0,
     "warrantyMonths":12.0,
     "year":2016,
-    "financedPrice":21490.0,
     "isTop":null
   },
   {
     "bodyTypeId":1.0,
+    "financedPrice":null,
     "fuelType":"El\u00e9ctrico",
     "fuelTypeId":3.0,
     "hasWarranty":true,
-    "id":"52741159",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/02\/22\/52741159\/600573471_g.jpg",
+    "id":"52742936",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/17\/52742936\/600623395_g.jpg",
     "includesTaxes":true,
-    "isCertified":true,
-    "isFinanced":true,
+    "isCertified":false,
+    "isFinanced":false,
     "isUrgent":false,
     "isProfessional":true,
     "isUrlSemantic":true,
-    "km":7000,
+    "km":116800,
     "location":{
       "provinceIds":[
-        17
+        28
       ],
-      "mainProvince":"Girona",
-      "mainProvinceId":17
+      "mainProvince":"Madrid",
+      "mainProvinceId":28
     },
-    "price":36975,
-    "url":"\/km-0\/bmw\/i3\/girona\/120ah-electrico-hibrido-de-km0-52741159-kovn.aspx",
+    "price":19350,
+    "url":"\/bmw-i3--electrico-hibrido-2014-en-madrid-52742936-covo.aspx",
     "offerType":{
-      "id":2,
-      "literal":"Km0"
+      "id":0,
+      "literal":"Ocasi\u00f3n"
     },
-    "phone":"877890018",
-    "provinceId":17,
-    "publicationDate":"2022-08-18T11:05:44Z",
+    "phone":"608676625",
+    "provinceId":28,
+    "publicationDate":"2022-08-17T11:55:08Z",
     "specificFuelTypeId":3.0,
     "taxTypeId":1,
-    "title":"BMW i3 120ah 5p.",
-    "warrantyId":4.0,
-    "warrantyMonths":24.0,
+    "title":"BMW i3",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2014,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":null,
+    "financedPrice":null,
+    "fuelType":null,
+    "fuelTypeId":null,
+    "hasWarranty":false,
+    "id":"52738602",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/16\/52738602\/600640878_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":false,
+    "isUrlSemantic":true,
+    "km":6980,
+    "location":{
+      "provinceIds":[
+        7
+      ],
+      "mainProvince":"Baleares",
+      "mainProvinceId":7
+    },
+    "price":38500,
+    "url":"\/bmw-i3-electrico-hibrido-2021-en-baleares-52738602-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"630412443",
+    "provinceId":7,
+    "publicationDate":"2022-08-16T15:41:02Z",
+    "specificFuelTypeId":null,
+    "taxTypeId":1,
+    "title":"BMW i3",
+    "warrantyId":null,
+    "warrantyMonths":null,
     "year":2021,
-    "financedPrice":34475.0,
     "isTop":null
   },
   {
     "bodyTypeId":1.0,
+    "financedPrice":null,
     "fuelType":"El\u00e9ctrico",
     "fuelTypeId":3.0,
     "hasWarranty":true,
-    "id":"52741163",
-    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/02\/22\/52741163\/600573531_g.jpg",
+    "id":"52705639",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/10\/52705639\/599106388_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":19400,
+    "location":{
+      "provinceIds":[
+        46
+      ],
+      "mainProvince":"Valencia",
+      "mainProvinceId":46
+    },
+    "price":32900,
+    "url":"\/bmw-i3-s-120ah-electrico-hibrido-2019-en-valencia-52705639-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"674710858",
+    "provinceId":46,
+    "publicationDate":"2022-08-16T09:49:42Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 S 120ah 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2019,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":28382.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52278877",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/06\/16\/52278877\/607864186_g.jpg",
     "includesTaxes":true,
     "isCertified":false,
     "isFinanced":true,
     "isUrgent":false,
     "isProfessional":true,
     "isUrlSemantic":true,
-    "km":4000,
+    "km":17534,
     "location":{
       "provinceIds":[
-        17
+        3
       ],
-      "mainProvince":"Girona",
-      "mainProvinceId":17
+      "mainProvince":"Alicante",
+      "mainProvinceId":3
     },
-    "price":37975,
-    "url":"\/km-0\/bmw\/i3\/girona\/120ah-electrico-hibrido-de-km0-52741163-kovn.aspx",
+    "price":30850,
+    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-alicante-52278877-covo.aspx",
     "offerType":{
-      "id":2,
-      "literal":"Km0"
+      "id":0,
+      "literal":"Ocasi\u00f3n"
     },
-    "phone":"877890018",
-    "provinceId":17,
-    "publicationDate":"2022-08-18T09:08:43Z",
+    "phone":"900535336",
+    "provinceId":3,
+    "publicationDate":"2022-08-13T12:40:32Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 120ah 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2019,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":28382.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52278846",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/06\/16\/52278846\/607864606_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":17534,
+    "location":{
+      "provinceIds":[
+        28
+      ],
+      "mainProvince":"Madrid",
+      "mainProvinceId":28
+    },
+    "price":30850,
+    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-madrid-52278846-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"900535336",
+    "provinceId":28,
+    "publicationDate":"2022-08-13T12:38:57Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 120ah 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2019,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":28382.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52278843",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/06\/16\/52278843\/607863643_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":17534,
+    "location":{
+      "provinceIds":[
+        8
+      ],
+      "mainProvince":"Barcelona",
+      "mainProvinceId":8
+    },
+    "price":30850,
+    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-barcelona-52278843-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"900535336",
+    "provinceId":8,
+    "publicationDate":"2022-08-13T12:38:49Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 120ah 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2019,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":21500.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52707278",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/11\/52707278\/599220075_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":90000,
+    "location":{
+      "provinceIds":[
+        30
+      ],
+      "mainProvince":"Murcia",
+      "mainProvinceId":30
+    },
+    "price":21900,
+    "url":"\/bmw-i3--electrico-hibrido-2015-en-murcia-52707278-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"624655065",
+    "provinceId":30,
+    "publicationDate":"2022-08-11T08:06:23Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2015,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52705757",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/10\/52705757\/599111025_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":20020,
+    "location":{
+      "provinceIds":[
+        46
+      ],
+      "mainProvince":"Valencia",
+      "mainProvinceId":46
+    },
+    "price":33800,
+    "url":"\/bmw-i3-s-120ah-electrico-hibrido-2020-en-valencia-52705757-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"674710858",
+    "provinceId":46,
+    "publicationDate":"2022-08-10T20:05:40Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 S 120ah",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2020,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"H\u00edbrido enchufable",
+    "fuelTypeId":5.0,
+    "hasWarranty":true,
+    "id":"52705736",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/10\/52705736\/599109664_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":17800,
+    "location":{
+      "provinceIds":[
+        46
+      ],
+      "mainProvince":"Valencia",
+      "mainProvinceId":46
+    },
+    "price":33900,
+    "url":"\/bmw-i3-94ah-rex--2018-en-valencia-52705736-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"674710858",
+    "provinceId":46,
+    "publicationDate":"2022-08-10T20:02:51Z",
+    "specificFuelTypeId":5.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah REX",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2018,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":null,
+    "financedPrice":null,
+    "fuelType":"Gasolina",
+    "fuelTypeId":2.0,
+    "hasWarranty":false,
+    "id":"52665958",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/04\/52665958\/597636489_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":false,
+    "isUrlSemantic":true,
+    "km":250000,
+    "location":{
+      "provinceIds":[
+        41
+      ],
+      "mainProvince":"Sevilla",
+      "mainProvinceId":41
+    },
+    "price":2500,
+    "url":"\/bmw-i3-gasolina-2001-en-sevilla-52665958-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"667660111",
+    "provinceId":41,
+    "publicationDate":"2022-08-04T14:08:59Z",
+    "specificFuelTypeId":2.0,
+    "taxTypeId":1,
+    "title":"BMW i3",
+    "warrantyId":null,
+    "warrantyMonths":null,
+    "year":2001,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":17900.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52875623",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/03\/52875623\/605646850_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":69000,
+    "location":{
+      "provinceIds":[
+        28
+      ],
+      "mainProvince":"Madrid",
+      "mainProvinceId":28
+    },
+    "price":18900,
+    "url":"\/bmw-i3-94ah-electrico-hibrido-2016-en-madrid-52875623-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"918786215",
+    "provinceId":28,
+    "publicationDate":"2022-08-03T17:07:30Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2016,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":false,
+    "id":"52612734",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/28\/52612734\/596006545_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":false,
+    "isUrlSemantic":true,
+    "km":47500,
+    "location":{
+      "provinceIds":[
+        28
+      ],
+      "mainProvince":"Madrid",
+      "mainProvinceId":28
+    },
+    "price":24000,
+    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2017-en-madrid-52612734-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"615134685",
+    "provinceId":28,
+    "publicationDate":"2022-07-28T16:09:43Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah 5p.",
+    "warrantyId":null,
+    "warrantyMonths":null,
+    "year":2017,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52605624",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/27\/52605624\/607264843_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":12000,
+    "location":{
+      "provinceIds":[
+        28
+      ],
+      "mainProvince":"Madrid",
+      "mainProvinceId":28
+    },
+    "price":35995,
+    "url":"\/bmw-i3-s-94ah-electrico-hibrido-2018-en-madrid-52605624-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"639436177",
+    "provinceId":28,
+    "publicationDate":"2022-07-27T19:01:06Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 S 94ah",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2018,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":false,
+    "id":"52548862",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/20\/52548862\/592471007_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":false,
+    "isUrlSemantic":true,
+    "km":44986,
+    "location":{
+      "provinceIds":[
+        28
+      ],
+      "mainProvince":"Madrid",
+      "mainProvinceId":28
+    },
+    "price":21500,
+    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2017-en-madrid-52548862-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"670796676",
+    "provinceId":28,
+    "publicationDate":"2022-07-20T13:07:38Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah 5p.",
+    "warrantyId":null,
+    "warrantyMonths":null,
+    "year":2017,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":20981.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52548588",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/20\/52548588\/597348670_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":82954,
+    "location":{
+      "provinceIds":[
+        50
+      ],
+      "mainProvince":"Zaragoza",
+      "mainProvinceId":50
+    },
+    "price":22450,
+    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2017-en-zaragoza-52548588-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"876500593",
+    "provinceId":50,
+    "publicationDate":"2022-07-20T11:38:53Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2017,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":20981.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52532136",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/18\/52532136\/597423277_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":82954,
+    "location":{
+      "provinceIds":[
+        12
+      ],
+      "mainProvince":"Castell\u00f3n",
+      "mainProvinceId":12
+    },
+    "price":22450,
+    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2017-en-castellon-52532136-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"964186910",
+    "provinceId":12,
+    "publicationDate":"2022-07-18T14:01:16Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2017,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":20981.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52531948",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/18\/52531948\/597230395_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":82954,
+    "location":{
+      "provinceIds":[
+        28
+      ],
+      "mainProvince":"Madrid",
+      "mainProvinceId":28
+    },
+    "price":22450,
+    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2017-en-madrid-52531948-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"918227604",
+    "provinceId":28,
+    "publicationDate":"2022-07-18T13:52:27Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2017,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":20981.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52522643",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/16\/52522643\/597297130_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":82954,
+    "location":{
+      "provinceIds":[
+        31
+      ],
+      "mainProvince":"Navarra",
+      "mainProvinceId":31
+    },
+    "price":22450,
+    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2017-en-navarra-52522643-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"848480842",
+    "provinceId":31,
+    "publicationDate":"2022-07-16T17:56:35Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2017,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":20981.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52521660",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/16\/52521660\/597281576_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":82954,
+    "location":{
+      "provinceIds":[
+        46
+      ],
+      "mainProvince":"Valencia",
+      "mainProvinceId":46
+    },
+    "price":22450,
+    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2017-en-valencia-52521660-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"963052325",
+    "provinceId":46,
+    "publicationDate":"2022-07-16T13:54:27Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2017,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":20981.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52518433",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/15\/52518433\/597407546_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":82954,
+    "location":{
+      "provinceIds":[
+        8
+      ],
+      "mainProvince":"Barcelona",
+      "mainProvinceId":8
+    },
+    "price":22450,
+    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-barcelona-52518433-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"938252272",
+    "provinceId":8,
+    "publicationDate":"2022-07-15T20:10:40Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2017,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52651552",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/03\/52651552\/597129826_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":59000,
+    "location":{
+      "provinceIds":[
+        28
+      ],
+      "mainProvince":"Madrid",
+      "mainProvinceId":28
+    },
+    "price":30900,
+    "url":"\/bmw-i3-94ah-electrico-hibrido-2018-en-madrid-52651552-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"654853152",
+    "provinceId":28,
+    "publicationDate":"2022-09-05T18:51:45Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2018,
+    "isTop":true
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":27500.0,
+    "fuelType":"H\u00edbrido enchufable",
+    "fuelTypeId":5.0,
+    "hasWarranty":true,
+    "id":"52310936",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/06\/21\/52310936\/582468474_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":36000,
+    "location":{
+      "provinceIds":[
+        8
+      ],
+      "mainProvince":"Barcelona",
+      "mainProvinceId":8
+    },
+    "price":29500,
+    "url":"\/bmw-i3-94ah-rex--2018-en-barcelona-52310936-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"674344492",
+    "provinceId":8,
+    "publicationDate":"2022-06-21T11:40:20Z",
+    "specificFuelTypeId":5.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah REX",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2018,
+    "isTop":true
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"H\u00edbrido enchufable",
+    "fuelTypeId":5.0,
+    "hasWarranty":true,
+    "id":"52613879",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/28\/52613879\/605707232_g.jpg",
+    "includesTaxes":true,
+    "isCertified":true,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":38954,
+    "location":{
+      "provinceIds":[
+        8
+      ],
+      "mainProvince":"Barcelona",
+      "mainProvinceId":8
+    },
+    "price":35990,
+    "url":"\/bmw-i3-s-94ah-rex-5p-electrico-hibrido-2018-en-barcelona-52613879-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"607261364",
+    "provinceId":8,
+    "publicationDate":"2022-09-05T09:45:44Z",
+    "specificFuelTypeId":5.0,
+    "taxTypeId":1,
+    "title":"BMW i3 S 94ah REX 5p.",
+    "warrantyId":4.0,
+    "warrantyMonths":24.0,
+    "year":2018,
+    "isTop":true
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":25900.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52899263",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/09\/06\/52899263\/606598063_g.jpg",
+    "includesTaxes":true,
+    "isCertified":true,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":102496,
+    "location":{
+      "provinceIds":[
+        9
+      ],
+      "mainProvince":"Burgos",
+      "mainProvinceId":9
+    },
+    "price":28900,
+    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-burgos-52899263-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"947980109",
+    "provinceId":9,
+    "publicationDate":"2022-09-07T10:14:47Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 120ah 5p.",
+    "warrantyId":4.0,
+    "warrantyMonths":24.0,
+    "year":2019,
+    "isTop":true
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":19690.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52809851",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/26\/52809851\/607898020_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":56707,
+    "location":{
+      "provinceIds":[
+        28
+      ],
+      "mainProvince":"Madrid",
+      "mainProvinceId":28
+    },
+    "price":20690,
+    "url":"\/bmw-i3--5p-electrico-hibrido-2016-en-madrid-52809851-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"911438320",
+    "provinceId":28,
+    "publicationDate":"2022-09-03T12:25:44Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3  5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2015,
+    "isTop":true
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52912821",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/09\/07\/52912821\/607078433_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":29000,
+    "location":{
+      "provinceIds":[
+        28
+      ],
+      "mainProvince":"Madrid",
+      "mainProvinceId":28
+    },
+    "price":31900,
+    "url":"\/bmw-i3-s-120ah-5p-electrico-hibrido-2019-en-madrid-52912821-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"638376583",
+    "provinceId":28,
+    "publicationDate":"2022-09-09T17:36:47Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 S 120ah 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2019,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":false,
+    "id":"52730815",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/15\/52730815\/605635204_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":false,
+    "isUrlSemantic":true,
+    "km":31000,
+    "location":{
+      "provinceIds":[
+        28
+      ],
+      "mainProvince":"Madrid",
+      "mainProvinceId":28
+    },
+    "price":24900,
+    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-madrid-52730815-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"649401831",
+    "provinceId":28,
+    "publicationDate":"2022-09-09T16:20:51Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah 5p.",
+    "warrantyId":null,
+    "warrantyMonths":null,
+    "year":2018,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":28382.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52278920",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/06\/16\/52278920\/607864411_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":17534,
+    "location":{
+      "provinceIds":[
+        29
+      ],
+      "mainProvince":"M\u00e1laga",
+      "mainProvinceId":29
+    },
+    "price":30850,
+    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-malaga-52278920-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"900535336",
+    "provinceId":29,
+    "publicationDate":"2022-09-09T12:02:42Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 120ah 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2019,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":21990.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52634013",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/01\/52634013\/607849484_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":66661,
+    "location":{
+      "provinceIds":[
+        28
+      ],
+      "mainProvince":"Madrid",
+      "mainProvinceId":28
+    },
+    "price":24190,
+    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-madrid-52634013-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"911438320",
+    "provinceId":28,
+    "publicationDate":"2022-09-09T10:18:48Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2018,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52494386",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/07\/13\/52494386\/589881461_g.jpg",
+    "includesTaxes":true,
+    "isCertified":true,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":19950,
+    "location":{
+      "provinceIds":[
+        47
+      ],
+      "mainProvince":"Valladolid",
+      "mainProvinceId":47
+    },
+    "price":33500,
+    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2018-en-valladolid-52494386-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"983950700",
+    "provinceId":47,
+    "publicationDate":"2022-09-09T10:02:49Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 120ah 5p.",
+    "warrantyId":4.0,
+    "warrantyMonths":24.0,
+    "year":2019,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52924158",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/09\/08\/52924158\/607571568_g.jpg",
+    "includesTaxes":true,
+    "isCertified":true,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":52492,
+    "location":{
+      "provinceIds":[
+        28
+      ],
+      "mainProvince":"Madrid",
+      "mainProvinceId":28
+    },
+    "price":28900,
+    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-madrid-52924158-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"919041152",
+    "provinceId":28,
+    "publicationDate":"2022-09-08T20:13:26Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 120ah 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2019,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52717734",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/12\/52717734\/599645703_g.jpg",
+    "includesTaxes":true,
+    "isCertified":true,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":14624,
+    "location":{
+      "provinceIds":[
+        8
+      ],
+      "mainProvince":"Barcelona",
+      "mainProvinceId":8
+    },
+    "price":33990,
+    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-barcelona-52717734-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"607261364",
+    "provinceId":8,
+    "publicationDate":"2022-09-08T15:30:47Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 120ah 5p.",
+    "warrantyId":4.0,
+    "warrantyMonths":24.0,
+    "year":2019,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52921578",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/09\/08\/52921578\/607381194_g.jpg",
+    "includesTaxes":true,
+    "isCertified":true,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":37000,
+    "location":{
+      "provinceIds":[
+        50
+      ],
+      "mainProvince":"Zaragoza",
+      "mainProvinceId":50
+    },
+    "price":30200,
+    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-zaragoza-52921578-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"976362148",
+    "provinceId":50,
+    "publicationDate":"2022-09-08T15:17:03Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 120ah 5p.",
+    "warrantyId":4.0,
+    "warrantyMonths":24.0,
+    "year":2019,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":21490.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52707947",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/11\/52707947\/607901516_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":83811,
+    "location":{
+      "provinceIds":[
+        28
+      ],
+      "mainProvince":"Madrid",
+      "mainProvinceId":28
+    },
+    "price":23590,
+    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-madrid-52707947-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"911438320",
+    "provinceId":28,
+    "publicationDate":"2022-09-08T12:19:46Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2018,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52251522",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/06\/13\/52251522\/580034896_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":54900,
+    "location":{
+      "provinceIds":[
+        24
+      ],
+      "mainProvince":"Le\u00f3n",
+      "mainProvinceId":24
+    },
+    "price":19900,
+    "url":"\/bmw-i3--5p-electrico-hibrido-2015-en-leon-52251522-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"683143558",
+    "provinceId":24,
+    "publicationDate":"2022-09-08T12:04:54Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3  5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2015,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"H\u00edbrido enchufable",
+    "fuelTypeId":5.0,
+    "hasWarranty":true,
+    "id":"52251513",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/06\/13\/52251513\/580117415_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":22500,
+    "location":{
+      "provinceIds":[
+        24
+      ],
+      "mainProvince":"Le\u00f3n",
+      "mainProvinceId":24
+    },
+    "price":28800,
+    "url":"\/bmw-i3-94ah-rex-5p-electrico-hibrido-2017-en-leon-52251513-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"683143558",
+    "provinceId":24,
+    "publicationDate":"2022-09-08T12:04:29Z",
+    "specificFuelTypeId":5.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah REX 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2017,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":22900.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52280033",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/06\/16\/52280033\/602673894_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":65000,
+    "location":{
+      "provinceIds":[
+        28,
+        7
+      ],
+      "mainProvince":"Madrid",
+      "mainProvinceId":28
+    },
+    "price":23900,
+    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-madrid-52280033-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"692621708",
+    "provinceId":28,
+    "publicationDate":"2022-09-08T11:07:47Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2018,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":28800.0,
+    "fuelType":"H\u00edbrido enchufable",
+    "fuelTypeId":5.0,
+    "hasWarranty":true,
+    "id":"52757232",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/19\/52757232\/601130874_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":48000,
+    "location":{
+      "provinceIds":[
+        28
+      ],
+      "mainProvince":"Madrid",
+      "mainProvinceId":28
+    },
+    "price":29800,
+    "url":"\/bmw-i3-94ah-rex--2017-en-madrid-52757232-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"677473781",
+    "provinceId":28,
+    "publicationDate":"2022-09-08T10:19:50Z",
+    "specificFuelTypeId":5.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah REX 5p.",
+    "warrantyId":5.0,
+    "warrantyMonths":36.0,
+    "year":2017,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":20990.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52045670",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/05\/18\/52045670\/574594304_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":80945,
+    "location":{
+      "provinceIds":[
+        28,
+        45
+      ],
+      "mainProvince":"Madrid",
+      "mainProvinceId":28
+    },
+    "price":22450,
+    "url":"\/bmw-i3-94ah-electrico-hibrido-2018-en-madrid-52045670-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"608206636",
+    "provinceId":28,
+    "publicationDate":"2022-09-07T17:03:45Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2018,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":25900.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52899263",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/09\/06\/52899263\/606598063_g.jpg",
+    "includesTaxes":true,
+    "isCertified":true,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":102496,
+    "location":{
+      "provinceIds":[
+        9
+      ],
+      "mainProvince":"Burgos",
+      "mainProvinceId":9
+    },
+    "price":28900,
+    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-burgos-52899263-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"947980109",
+    "provinceId":9,
+    "publicationDate":"2022-09-07T10:14:47Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 120ah 5p.",
+    "warrantyId":4.0,
+    "warrantyMonths":24.0,
+    "year":2019,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":39500.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"51738136",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/04\/07\/51738136\/559042331_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":3500,
+    "location":{
+      "provinceIds":[
+        8
+      ],
+      "mainProvince":"Barcelona",
+      "mainProvinceId":8
+    },
+    "price":39900,
+    "url":"\/km-0\/bmw\/i3\/barcelona\/120ah-electrico-hibrido-de-km0-51738136-kovn.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"931225406",
+    "provinceId":8,
+    "publicationDate":"2022-09-07T08:59:44Z",
     "specificFuelTypeId":3.0,
     "taxTypeId":1,
     "title":"BMW i3 120ah 5p.",
     "warrantyId":4.0,
     "warrantyMonths":24.0,
     "year":2021,
-    "financedPrice":35475.0,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":19900.0,
+    "fuelType":"H\u00edbrido enchufable",
+    "fuelTypeId":5.0,
+    "hasWarranty":true,
+    "id":"52808589",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/25\/52808589\/603058811_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":112209,
+    "location":{
+      "provinceIds":[
+        39
+      ],
+      "mainProvince":"Cantabria",
+      "mainProvinceId":39
+    },
+    "price":19900,
+    "url":"\/bmw-i3-rex--2016-en-cantabria-52808589-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"626966444",
+    "provinceId":39,
+    "publicationDate":"2022-09-06T20:31:46Z",
+    "specificFuelTypeId":5.0,
+    "taxTypeId":1,
+    "title":"BMW i3 REX 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2016,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52694962",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/09\/52694962\/598743545_g.jpg",
+    "includesTaxes":true,
+    "isCertified":true,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":9800,
+    "location":{
+      "provinceIds":[
+        35
+      ],
+      "mainProvince":"Las Palmas",
+      "mainProvinceId":35
+    },
+    "price":33900,
+    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2020-en-las_palmas-52694962-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"690262813",
+    "provinceId":35,
+    "publicationDate":"2022-09-06T20:22:44Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":2,
+    "title":"BMW i3 120ah 5p.",
+    "warrantyId":4.0,
+    "warrantyMonths":24.0,
+    "year":2020,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":18500.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52903433",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/09\/06\/52903433\/606731484_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":66000,
+    "location":{
+      "provinceIds":[
+        28,
+        7
+      ],
+      "mainProvince":"Madrid",
+      "mainProvinceId":28
+    },
+    "price":19900,
+    "url":"\/bmw-i3--electrico-hibrido-2016-en-madrid-52903433-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"692621708",
+    "provinceId":28,
+    "publicationDate":"2022-09-06T16:49:05Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2016,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":30990.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52899962",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/09\/06\/52899962\/606618380_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":13200,
+    "location":{
+      "provinceIds":[
+        28
+      ],
+      "mainProvince":"Madrid",
+      "mainProvinceId":28
+    },
+    "price":31990,
+    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-madrid-52899962-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"623062320",
+    "provinceId":28,
+    "publicationDate":"2022-09-06T11:23:03Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 120ah 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2019,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":23900.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52837157",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/30\/52837157\/604297901_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":64300,
+    "location":{
+      "provinceIds":[
+        28
+      ],
+      "mainProvince":"Madrid",
+      "mainProvinceId":28
+    },
+    "price":25900,
+    "url":"\/bmw-i3-94ah-electrico-hibrido-2018-en-madrid-52837157-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"910781631",
+    "provinceId":28,
+    "publicationDate":"2022-09-05T22:53:45Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2018,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":33300.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52008004",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/05\/12\/52008004\/578583188_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":27400,
+    "location":{
+      "provinceIds":[
+        28
+      ],
+      "mainProvince":"Madrid",
+      "mainProvinceId":28
+    },
+    "price":34200,
+    "url":"\/bmw-i3-120ah-electrico-hibrido-2019-en-madrid-52008004-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"983099252",
+    "provinceId":28,
+    "publicationDate":"2022-09-05T19:29:17Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 120ah",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2019,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52651552",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/03\/52651552\/597129826_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":59000,
+    "location":{
+      "provinceIds":[
+        28
+      ],
+      "mainProvince":"Madrid",
+      "mainProvinceId":28
+    },
+    "price":30900,
+    "url":"\/bmw-i3-94ah-electrico-hibrido-2018-en-madrid-52651552-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"654853152",
+    "provinceId":28,
+    "publicationDate":"2022-09-05T18:51:45Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2018,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52893678",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/09\/05\/52893678\/606392291_g.jpg",
+    "includesTaxes":true,
+    "isCertified":true,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":41000,
+    "location":{
+      "provinceIds":[
+        8
+      ],
+      "mainProvince":"Barcelona",
+      "mainProvinceId":8
+    },
+    "price":22990,
+    "url":"\/bmw-i3--5p-electrico-hibrido-2015-en-barcelona-52893678-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"607261364",
+    "provinceId":8,
+    "publicationDate":"2022-09-05T17:25:07Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3  5p.",
+    "warrantyId":4.0,
+    "warrantyMonths":24.0,
+    "year":2015,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":28382.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52278895",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/06\/16\/52278895\/607864849_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":17534,
+    "location":{
+      "provinceIds":[
+        7
+      ],
+      "mainProvince":"Baleares",
+      "mainProvinceId":7
+    },
+    "price":30850,
+    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-baleares-52278895-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"900535336",
+    "provinceId":7,
+    "publicationDate":"2022-09-05T16:59:40Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 120ah 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2019,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":false,
+    "id":"52889169",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/09\/05\/52889169\/606386017_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":false,
+    "isUrlSemantic":true,
+    "km":18373,
+    "location":{
+      "provinceIds":[
+        31
+      ],
+      "mainProvince":"Navarra",
+      "mainProvinceId":31
+    },
+    "price":24000,
+    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-navarra-52889169-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"674818117",
+    "provinceId":31,
+    "publicationDate":"2022-09-05T16:30:59Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah 5p.",
+    "warrantyId":null,
+    "warrantyMonths":null,
+    "year":2018,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52760382",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/08\/19\/52760382\/604488308_g.jpg",
+    "includesTaxes":true,
+    "isCertified":true,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":28640,
+    "location":{
+      "provinceIds":[
+        8
+      ],
+      "mainProvince":"Barcelona",
+      "mainProvinceId":8
+    },
+    "price":25990,
+    "url":"\/bmw-i3-94ah-5p-electrico-hibrido-2018-en-barcelona-52760382-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"607261364",
+    "provinceId":8,
+    "publicationDate":"2022-09-05T15:02:48Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":1,
+    "title":"BMW i3 94ah 5p.",
+    "warrantyId":4.0,
+    "warrantyMonths":24.0,
+    "year":2018,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52888186",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/09\/05\/52888186\/606216549_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":49000,
+    "location":{
+      "provinceIds":[
+        38
+      ],
+      "mainProvince":"Sta. C. Tenerife",
+      "mainProvinceId":38
+    },
+    "price":19950,
+    "url":"\/bmw-i3-94ah-electrico-hibrido-2016-en-sta_c_tenerife-52888186-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"928238217",
+    "provinceId":38,
+    "publicationDate":"2022-09-05T10:35:53Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":2,
+    "title":"BMW i3 94ah",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2016,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":null,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52888088",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/09\/05\/52888088\/606212693_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":false,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":49000,
+    "location":{
+      "provinceIds":[
+        35
+      ],
+      "mainProvince":"Las Palmas",
+      "mainProvinceId":35
+    },
+    "price":19950,
+    "url":"\/bmw-i3-94ah-electrico-hibrido-2016-en-las_palmas-52888088-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"928238217",
+    "provinceId":35,
+    "publicationDate":"2022-09-05T10:29:38Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":2,
+    "title":"BMW i3 94ah",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2016,
+    "isTop":null
+  },
+  {
+    "bodyTypeId":1.0,
+    "financedPrice":29650.0,
+    "fuelType":"El\u00e9ctrico",
+    "fuelTypeId":3.0,
+    "hasWarranty":true,
+    "id":"52887843",
+    "img":"https:\/\/a.ccdn.es\/cnet\/2022\/09\/05\/52887843\/606206374_g.jpg",
+    "includesTaxes":true,
+    "isCertified":false,
+    "isFinanced":true,
+    "isUrgent":false,
+    "isProfessional":true,
+    "isUrlSemantic":true,
+    "km":12500,
+    "location":{
+      "provinceIds":[
+        35
+      ],
+      "mainProvince":"Las Palmas",
+      "mainProvinceId":35
+    },
+    "price":30950,
+    "url":"\/bmw-i3-120ah-5p-electrico-hibrido-2019-en-las_palmas-52887843-covo.aspx",
+    "offerType":{
+      "id":0,
+      "literal":"Ocasi\u00f3n"
+    },
+    "phone":"690262813",
+    "provinceId":35,
+    "publicationDate":"2022-09-05T10:13:56Z",
+    "specificFuelTypeId":3.0,
+    "taxTypeId":2,
+    "title":"BMW i3 120ah 5p.",
+    "warrantyId":2.0,
+    "warrantyMonths":12.0,
+    "year":2019,
     "isTop":null
   }
 ]

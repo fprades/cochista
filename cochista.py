@@ -3,6 +3,7 @@ from codecs import raw_unicode_escape_encode
 import json
 import random
 import re
+from string import Template
 import sys
 import urllib.request
 from pathlib import Path
@@ -108,8 +109,11 @@ def coches(name: str, datadir: Path = Path("data")):
 def createweb(name: str, datadir: Path = Path("data"), outdir: Path = Path("docs")):
     webdir = outdir / name
     webdir.mkdir(exist_ok=True, parents=True)
-    coches(name, datadir=datadir).to_json(f"""{webdir/"data.json"}""", indent=2, orient="records")
-    copyfile("template.html", webdir / "index.html")
+    coches(name, datadir=datadir).to_json(
+        f"""{webdir/"data.json"}""", indent=2, orient="records"
+    )
+    template = Template(Path("template.html").read_text())
+    (webdir / "index.html").write_text(template.substitute(name = name))
 
 
 def main(argv):
@@ -131,7 +135,6 @@ def main(argv):
         print(query)
         feed(name=query, pages=opts.pages, pause=opts.pause, datadir=opts.datadir)
         createweb(name=query, outdir=opts.outdir)
-
 
 
 if __name__ == "__main__":
