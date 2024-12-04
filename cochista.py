@@ -1,5 +1,4 @@
 import argparse
-from codecs import raw_unicode_escape_encode
 import json
 import random
 import re
@@ -7,14 +6,14 @@ from string import Template
 import sys
 import urllib.request
 from pathlib import Path
-from shutil import copyfile, copyfileobj
+from shutil import copyfileobj
 from time import sleep
 from urllib.parse import urlencode, urljoin
 
 import lxml.etree as etree
 import pandas
 
-regex = re.compile("JSON.parse\((.*)\)")
+regex = re.compile(r"JSON.parse\((.*)\)")
 
 XPATH = """//script[contains(text(), "__INITIAL_PROPS__")]"""
 
@@ -109,11 +108,11 @@ def coches(name: str, datadir: Path = Path("data")):
 def createweb(name: str, datadir: Path = Path("data"), outdir: Path = Path("docs")):
     webdir = outdir / name
     webdir.mkdir(exist_ok=True, parents=True)
-    coches(name, datadir=datadir).to_json(
-        f"""{webdir/"data.json"}""", indent=2, orient="records"
-    )
+    cars = coches(name, datadir=datadir)
+    print(len(cars))
+    cars.to_json(f"""{webdir/"data.json"}""", indent=2, orient="records")
     template = Template(Path("template.html").read_text())
-    (webdir / "index.html").write_text(template.substitute(name = name))
+    (webdir / "index.html").write_text(template.substitute(name=name))
 
 
 def main(argv):
@@ -135,6 +134,10 @@ def main(argv):
         print(query)
         feed(name=query, pages=opts.pages, pause=opts.pause, datadir=opts.datadir)
         createweb(name=query, outdir=opts.outdir)
+
+        print(f"http://localhost:8080/" + query)
+
+    print("python -m http.server --directory=docs 8080")
 
 
 if __name__ == "__main__":

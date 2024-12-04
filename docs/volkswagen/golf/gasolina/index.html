@@ -43,7 +43,7 @@
             fill = "none", // fill color for dots
             stroke = "currentColor", // stroke color for the dots
             strokeWidth = 1.5, // stroke width for dots
-            halo = "#fff", // color of label halo 
+            halo = "#fff", // color of label halo
             haloWidth = 3 // padding around the labels
         } = {}) {
             // Compute values.
@@ -130,7 +130,7 @@
                 .attr("desc", i => data[i].title)
                 .attr("r", r)
                 .attr("fill", i => myColor(data[i].year))
-                .on("click", (x) => { _url = "https://coches.net" + x.target.getAttribute("href"); console.log(_url); window.open(_url, "cochesnet", "noreferrer"); })
+                .on("click", (x) => { _url = "https://coches.net" + x.target.getAttribute("href"); window.open(_url, "cochesnet", "noreferrer"); })
                 .on("mouseover", (x) => {
                     d3.select("#see").attr("src", x.target.getAttribute("img"));
                     d3.select("#desc").html(x.target.getAttribute("desc") + "<br/>" + x.target.getAttribute("euro") + "&euro;<br/>" + x.target.getAttribute("km") + "kms");
@@ -139,13 +139,18 @@
 
             return svg.node();
         }
+
+        function first(a, b) {
+            if (a != undefined) return a;
+            return b;
+        }
+
         function loaded() {
             d = d3.json("data.json").then(
                 (data) => {
                     console.log(data)
-                    sp = Scatterplot(data, { x: d => d.km, y: d => d.price, width: 2500, xLabel: "km →", yLabel: "precio", height: 1080, r: 10, fill: "none" });
+                    sp = Scatterplot(data, { x: d => d.km, y: d => first(d.financedPrice, d.price), width: 2500, xLabel: "km →", yLabel: "precio", height: 1080, r: 10, fill: "none" });
                     d3.select("#something").append(() => sp);
-
                 }
             )
         }
