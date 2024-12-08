@@ -125,6 +125,7 @@
                 .attr("cy", i => yScale(Y[i]))
                 .attr("href", i => data[i].url)
                 .attr("euro", i => data[i].price)
+                .attr("year", i => data[i].year)
                 .attr("km", i => data[i].km)
                 .attr("img", i => data[i].img)
                 .attr("desc", i => data[i].title)
@@ -133,7 +134,11 @@
                 .on("click", (x) => { _url = "https://coches.net" + x.target.getAttribute("href"); window.open(_url, "cochesnet", "noreferrer"); })
                 .on("mouseover", (x) => {
                     d3.select("#see").attr("src", x.target.getAttribute("img"));
-                    d3.select("#desc").html(x.target.getAttribute("desc") + "<br/>" + x.target.getAttribute("euro") + "&euro;<br/>" + x.target.getAttribute("km") + "kms");
+                    d3.select("#desc").html(
+                        x.target.getAttribute("desc") +" - ("+ x.target.getAttribute("year") + ")" +  "<br/>" +
+                        x.target.getAttribute("euro") + "&euro;<br/>" +
+                        x.target.getAttribute("km") + "kms"
+                    );
                 })
                 ;
 

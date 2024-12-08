@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import argparse
 import json
 import random
@@ -50,18 +52,18 @@ def feed(
     pause: float = 10,
     base="https://www.coches.net",
     datadir: Path = Path("data"),
+    refresh: bool = False,
     **kwargs,
 ):
 
-    query = urljoin(base, f"{name}/")
-    query = urljoin(query, "segunda-mano/")
+    query = urljoin(base, f"{name}/segunda-mano/")
 
     where = datadir / name
     where.mkdir(exist_ok=True, parents=True)
 
     for page in range(pages):
         file = where / f"data.{page+1}.html"
-        if not file.exists():
+        if not file.exists() or refresh:
             request = urllib.request.Request(
                 query + "?" + urlencode(dict(**kwargs, pg=page + 1)),
                 headers=_headers(),
@@ -125,6 +127,7 @@ def main(argv):
     parser.add_argument("--datadir", type=Path, default=Path("data"))
     parser.add_argument("--outdir", type=Path, default=Path("docs"))
     parser.add_argument("--pages", type=int, default=10)
+    parser.add_argument("--refresh", type=bool, default=False)
     parser.add_argument("--pause", type=float, default=2)
     parser.add_argument("queries", nargs="*")
 
@@ -132,12 +135,18 @@ def main(argv):
 
     for query in opts.queries:
         print(query)
-        feed(name=query, pages=opts.pages, pause=opts.pause, datadir=opts.datadir)
+        feed(
+            name=query,
+            pages=opts.pages,
+            pause=opts.pause,
+            datadir=opts.datadir,
+            refresh=opts.refresh,
+        )
         createweb(name=query, outdir=opts.outdir)
 
         print(f"http://localhost:8080/" + query)
 
-    print("python -m http.server --directory=docs 8080")
+    print("python -m http.server --directory=docs --bind localhost 8080")
 
 
 if __name__ == "__main__":
